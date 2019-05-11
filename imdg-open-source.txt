@@ -13,31 +13,6 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-12
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-3.12.zip
 CodeSamples_Size: 35 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12
-Maven_Code_Snippets:
---
-Click to copy, then paste the following snippets into your build:
---
-<dependency>
-    <groupId>com.hazelcast</groupId>
-    <artifactId>hazelcast</artifactId>
-    <version>3.11.1</version>
-</dependency>
---
-Gradle_Code_Snippets:
---
-Click to copy, then paste the following snippets into your build:
---
-compile 'com.hazelcast:hazelcast:3.11.1'
---
-Docker_Code_Snippets:
---
-Pull hazelcast docker image from Docker registry via this command:
---
-docker pull hazelcast/hazelcast
---
-After that you should be able to run Hazelcast docker image by:
---
-docker run -ti hazelcast/hazelcast
 ---
 ========== IMDG Previous Stable
 ---

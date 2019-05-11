@@ -1,0 +1,32 @@
+========== Maven
+---
+Click to copy, then paste the following snippets into your build:
+---
+<dependency>
+    <groupId>com.hazelcast</groupId>
+    <artifactId>hazelcast</artifactId>
+    <version>3.11.1</version>
+</dependency>
+---
+========== Gradle
+---
+Click to copy, then paste the following snippets into your build:
+---
+compile 'com.hazelcast:hazelcast:3.11.1'
+---
+========== Docker
+---
+Pull hazelcast docker image from Docker registry via this command:
+---
+docker pull hazelcast/hazelcast
+---
+After that you should be able to run Hazelcast docker image by:
+---
+docker run -ti hazelcast/hazelcast
+---
+========== Helm
+---
+Install Hazelcast from the official Helm Chart via this command:
+---
+helm install --set image.tag=3.11.1 stable/hazelcast
+---
