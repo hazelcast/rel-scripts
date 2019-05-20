@@ -1,0 +1,173 @@
+========== Current Stable
+---
+Version: 3.0
+Date: 12/04/2019
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.0.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.0.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/3.0/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/3.0/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-0
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v3.0
+---
+========== Previous Stable
+---
+Version: 0.7.2
+Date: 19/12/2018
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.2.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.2.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.7.2/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.7.2/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7-2
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.7.2
+---
+Version: 0.7
+Date: 09/10/2018
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.7/manual/
+Docs_PDF: 
+APIDocs: https://docs.hazelcast.org/docs/jet/0.7/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.7
+---
+Version: 0.6.1
+Date: 03/05/2018
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.6.1.zip
+Download_ZIP_Size:
+DownloadTar: https://download.hazelcast.com/jet/hazelcast-jet-0.6.1.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.6.1/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.6.1/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-6-1
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.6.1
+---
+Version: 0.6
+Date: 11/04/2018
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.6.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.6.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.6/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.6/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-6
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.6
+---
+Version: 0.5.1
+Date: 12/06/2017
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.5.1.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.5.1.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.5.1/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.5.1/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-5-1
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.5.1
+---
+Version: 0.5
+Date: 11/16/2017
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.5.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.5.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.5/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.5/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-5
+CodeSamples: https://download.hazelcast.com/jet-code-samples/hazelcast-jet-code-samples-0.5.zip
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.5
+---
+Version: 0.4
+Date: 06/14/2017
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.4.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.4.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.4/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.4/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-4
+CodeSamples: https://download.hazelcast.com/jet-code-samples/hazelcast-jet-code-samples-0.4.zip
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.4
+---
+Version: 0.3.1
+Date: 03/21/2017
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.3.1.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.3.1.tar.gz
+Download_TAR_Size:
+Docs_HTML: https://docs.hazelcast.org/docs/jet/0.3.1/manual/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/jet/0.3.1/javadoc/
+ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-3-1
+CodeSamples: https://download.hazelcast.com/jet-code-samples/hazelcast-jet-code-samples-0.3.1.zip
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.3.1
+---
+Version: 0.3
+Date: 02/06/2017
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.3.zip
+Download_ZIP_Size:
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.3.tar.gz
+Download_TAR_Size:
+Docs_HTML: http://docs.hazelcast.org/docs/jet/0.3/manual/
+Docs_PDF:
+APIDocs: http://docs.hazelcast.org/docs/jet/0.3/javadoc/
+ReleaseNotes: 
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/v0.3
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.3
+---
+Version: 0.2
+Date: 09/13/2016
+Download_ZIP_URL:
+Download_ZIP_Size: 
+Download_TAR_URL: 
+Download_TAR_Size:
+Docs_HTML: 
+Docs_PDF:
+APIDocs: http://docs.hazelcast.org/docs/jet/0.2/javadoc/
+ReleaseNotes: 
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.2
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/0.2
+---
+Version: 0.1
+Date: 06/17/2016
+Download_ZIP_URL:
+Download_ZIP_Size: 
+Download_TAR_URL: 
+Download_TAR_Size:
+Docs_HTML:
+Docs_PDF: 
+APIDocs: http://docs.hazelcast.org/docs/jet/0.1/javadoc/
+ReleaseNotes: 
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.1
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/0.1
+---
+=== END
