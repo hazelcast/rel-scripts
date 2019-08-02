@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 3.12.2
+Date: 08/02/2019
+Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.2.zip
+Download_ZIP_Size: 148 MB
+Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.2.tar.gz
+Download_TAR_Size: 132 MB
+Docs_HTML: http://docs.hazelcast.org/docs/3.12.2/manual/html-single/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/3.12.2/manual/pdf/index.pdf
+APIDocs: http://docs.hazelcast.org/docs/3.12.2/javadoc
+ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#3-12-2
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
+========== Previous Stable
+---
 Version: 3.12.1
 Date: 05/10/2019
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.1.zip
@@ -13,8 +29,6 @@ ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#3-12-1
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
----
-========== Previous Stable
 ---
 Version: 3.12
 Date: 04/09/2019
