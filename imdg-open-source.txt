@@ -1052,7 +1052,7 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github: https://github.com/hazelcast/hazelcast/tree/v3.2.2
 ---
-Version 3.2.1
+Version: 3.2.1
 Date: 04/28/2014
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.2.1&p=
 Download_ZIP_Size: 32.3 MB
