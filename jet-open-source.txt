@@ -19,7 +19,7 @@ Github: https://github.com/hazelcast/hazelcast-jet/tree/v3.1
 Version: 3.0
 Date: 12/04/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.0.zip
-Download_ZIP_Size: 35mb
+Download_ZIP_Size:
 Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.0.tar.gz
 Download_TAR_Size:
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.0/manual/
