@@ -21,7 +21,7 @@ Date: 07/30/2019
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.3.zip
 Download_ZIP_Size: 57.1 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.3.tar.gz
-Download_TAR_Size: 57.1 MB
+Download_TAR_Size: 57.2 MB
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.3/manual/pdf/hazelcast-management-center-documentation-3.12.3.pdf
 APIDocs: 

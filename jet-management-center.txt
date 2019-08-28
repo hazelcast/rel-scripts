@@ -21,7 +21,7 @@ Date: 12/20/2018
 Download_ZIP_URL: https://download.hazelcast.com/hazelcast-jet-management-center/hazelcast-jet-management-center-0.7.2.zip
 Download_ZIP_Size: 38 MB
 Download_TAR_URL: https://download.hazelcast.com/hazelcast-jet-management-center/hazelcast-jet-management-center-0.7.2.tar.gz 
-Download_TAR_Size: 35 MB
+Download_TAR_Size: 35.1 MB
 Docs_HTML: https://docs.hazelcast.org/docs/jet-management-center/0.7.2/manual/
 Docs_PDF: 
 APIDocs: 

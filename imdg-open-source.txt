@@ -21,7 +21,7 @@ Date: 06/11/2019
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.1&p=
 Download_ZIP_Size: 152 MB
 Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.1&type=tar&p=
-Download_TAR_Size: 128 MB
+Download_TAR_Size: 128.1 MB
 Docs_HTML: https://docs.hazelcast.org/docs/3.12.1/manual/html-single/index.html
 Docs_PDF: https://docs.hazelcast.org/docs/3.12.1/manual/pdf/index.pdf
 APIDocs: https://docs.hazelcast.org/docs/3.12.1/javadoc
