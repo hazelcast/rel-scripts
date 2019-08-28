@@ -62,7 +62,7 @@ Version: 0.6.1
 Date: 03/05/2018
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.6.1.zip
 Download_ZIP_Size:
-DownloadTar: https://download.hazelcast.com/jet/hazelcast-jet-0.6.1.tar.gz
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.6.1.tar.gz
 Download_TAR_Size:
 Docs_HTML: https://docs.hazelcast.org/docs/jet/0.6.1/manual/
 Docs_PDF:
@@ -155,33 +155,5 @@ ReleaseNotes:
 CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/v0.3
 CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-jet/tree/v0.3
----
-Version: 0.2
-Date: 09/13/2016
-Download_ZIP_URL:
-Download_ZIP_Size: 
-Download_TAR_URL: 
-Download_TAR_Size:
-Docs_HTML: 
-Docs_PDF:
-APIDocs: http://docs.hazelcast.org/docs/jet/0.2/javadoc/
-ReleaseNotes: 
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.2
-CodeSamples_Size:
-Github: https://github.com/hazelcast/hazelcast-jet/tree/0.2
----
-Version: 0.1
-Date: 06/17/2016
-Download_ZIP_URL:
-Download_ZIP_Size: 
-Download_TAR_URL: 
-Download_TAR_Size:
-Docs_HTML:
-Docs_PDF: 
-APIDocs: http://docs.hazelcast.org/docs/jet/0.1/javadoc/
-ReleaseNotes: 
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.1
-CodeSamples_Size:
-Github: https://github.com/hazelcast/hazelcast-jet/tree/0.1
 ---
 === END
