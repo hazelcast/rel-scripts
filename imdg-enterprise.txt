@@ -3,7 +3,7 @@
 Version: 3.12.3
 Date: 10/03/2019
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.3.zip
-Download_ZIP_Size: 149 MB
+Download_ZIP_Size: 148 MB
 Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.3.tar.gz
 Download_TAR_Size: 132 MB
 Docs_HTML: http://docs.hazelcast.org/docs/3.12.3/manual/html-single/index.html
