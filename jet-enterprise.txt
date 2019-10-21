@@ -5,7 +5,7 @@ Date: 18/10/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.zip
 Download_ZIP_Size: 
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.tar.gz
-Download_TAR_Size: 
+Download_TAR_Size:
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.2/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.2/javadoc/

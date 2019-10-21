@@ -18,18 +18,17 @@ Click to copy, then paste the following snippets into your build:
 ---
 Click to copy, then paste the following snippets into your build:
 ---
-compile 'com.hazelcast.jet:hazelcast-jet:3.2
+compile 'com.hazelcast.jet:hazelcast-jet-enterprise:3.2'
 ---
 ========== Docker
 ---
 Pull hazelcast docker image from Docker registry via this command:
 ---
 docker pull hazelcast/hazelcast-jet-enterprise
-docker run -e JET_LICENSE_KEY=<your_license_key> -ti hazelcast/hazelcast-jet-enterprise
 ---
 After that you should be able to run Hazelcast docker image by:
 ---
-docker run -ti hazelcast/hazelcast-jet
+docker run -e JET_LICENSE_KEY=<your_license_key> -ti hazelcast/hazelcast-jet-enterprise
 ---
 ========== Helm
 ---
