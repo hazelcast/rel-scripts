@@ -996,18 +996,18 @@ CodeSamples_URL:
 CodeSamples_Size:
 Github:
 ---
-========== Development: HIDE
+========== Development: SHOW
 ---
-Version: 3.12-BETA-2
-Date: 03/12/2019
-Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12-BETA-2.zip
-Download_ZIP_Size: 136 MB
-Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12-BETA-2.tar.gz
-Download_TAR_Size: 119 MB
-Docs_HTML: http://docs.hazelcast.org/docs/3.12-BETA-2/manual/html-single/index.html
-Docs_PDF: http://docs.hazelcast.org/docs/3.12-BETA-2/manual/pdf/index.pdf
-APIDocs: http://docs.hazelcast.org/docs/3.12-BETA-2/javadoc
-ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#3-12-BETA-2
+Version: 4.0-BETA-1
+Date: 11/05/2019
+Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.0-BETA-1.zip
+Download_ZIP_Size: 97 MB
+Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.0-BETA-1.tar.gz
+Download_TAR_Size: 76 MB
+Docs_HTML: http://docs.hazelcast.org/docs/4.0-BETA-1/manual/html-single/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/4.0-BETA-1/manual/pdf/index.pdf
+APIDocs: http://docs.hazelcast.org/docs/4.0-BETA-1/javadoc
+ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#4.0-BETA-1
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
