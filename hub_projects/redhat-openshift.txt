@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://access.redhat.com/containers/?tab=overview#/registry.connect.redhat.com/hazelcast/hazelcast-3-rhel7
+Code_Samples_URL: 
+Docs_URL: https://docs.hazelcast.org/docs/openshift/deployment-guide/
+Learn_More_URL: 
+---
+========== Previous Stable

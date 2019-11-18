@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.7.3
+Download_URL: https://network.pivotal.io/products/hazelcast-pcf
+Code_Samples_URL: 
+Docs_URL: https://docs.pivotal.io/partners/hazelcast/index.html
+Learn_More_URL: 
+---
+========== Previous Stable

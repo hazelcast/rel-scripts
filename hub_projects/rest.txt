@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.0
+Download_URL: https://docs.hazelcast.org/docs/latest/manual/html-single/#rest-client
+Code_Samples_URL: 
+Docs_URL: 
+Learn_More_URL: 
+---
+========== Previous Stable

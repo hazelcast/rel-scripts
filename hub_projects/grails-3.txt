@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://github.com/hazelcast/hazelcast-grails/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-grails/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-grails
+---
+========== Previous Stable

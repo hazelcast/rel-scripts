@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 0.9
+Download_URL: https://github.com/hazelcast/spring-data-hazelcast/releases/
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/spring-data-hazelcast/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/spring-data-hazelcast
+---
+========== Previous Stable

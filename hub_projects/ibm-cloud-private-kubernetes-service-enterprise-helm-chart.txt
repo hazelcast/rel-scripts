@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 0.3
+Download_URL: https://github.com/IBM/charts/tree/master/community/hazelcast-enterprise
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/charts/blob/master/IBM_Cloud.md
+Learn_More_URL: 
+---
+========== Previous Stable

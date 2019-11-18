@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: 
+Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/3.1-maintenance/sockets
+Docs_URL: https://docs.hazelcast.org/docs/jet/3.1/manual/#connector-socket
+Learn_More_URL: 
+---
+========== Previous Stable

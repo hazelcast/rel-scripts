@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.0-RC9
+Download_URL: https://github.com/hazelcast/hazelcast-azure/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-azure/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-azure
+---
+========== Previous Stable

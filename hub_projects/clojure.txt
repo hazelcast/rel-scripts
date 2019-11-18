@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.0.2
+Download_URL: https://github.com/tolitius/chazel/
+Code_Samples_URL: 
+Docs_URL: https://github.com/tolitius/chazel/blob/master/README.md
+Learn_More_URL: https://github.com/tolitius/chazel
+---
+========== Previous Stable

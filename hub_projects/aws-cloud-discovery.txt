@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.2.2  
+Download_URL: https://github.com/hazelcast/hazelcast-aws/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-aws/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-aws
+---
+========== Previous Stable

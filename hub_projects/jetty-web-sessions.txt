@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.0
+Download_URL: https://www.eclipse.org/jetty/documentation/current/configuring-sessions-hazelcast.html
+Code_Samples_URL: 
+Docs_URL: 
+Learn_More_URL: 
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://github.com/helm/charts/tree/master/stable/hazelcast
+Code_Samples_URL: 
+Docs_URL: https://github.com/helm/charts/blob/master/stable/hazelcast/README.adoc
+Learn_More_URL: 
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.7.2
+Download_URL: https://example.com
+Code_Samples_URL: https://example.com
+Docs_URL: https://example.com
+Learn_More_URL: https://example.com
+---
+========== Previous Stable

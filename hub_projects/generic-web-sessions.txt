@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 2.0
+Download_URL: https://github.com/hazelcast/hazelcast-wm/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-wm/blob/master/README.md
+Learn_More_URL: 
+---
+========== Previous Stable

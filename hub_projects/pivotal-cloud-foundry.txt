@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.12.3-1
+Download_URL: https://docs.pivotal.io/partners/hazelcast/index.html
+Code_Samples_URL: 
+Docs_URL: https://docs.pivotal.io/partners/hazelcast/index.html
+Learn_More_URL: 
+---
+========== Previous Stable

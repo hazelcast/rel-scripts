@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://github.com/hazelcast/hazelcast-eureka/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-eureka/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-eureka
+---
+========== Previous Stable

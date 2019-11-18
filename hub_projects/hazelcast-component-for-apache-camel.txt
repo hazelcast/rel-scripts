@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://camel.apache.org/components/latest/hazelcast.html
+Code_Samples_URL: 
+Docs_URL: 
+Learn_More_URL: 
+---
+========== Previous Stable

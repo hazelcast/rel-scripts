@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version:  3.0
+Download_URL: https://github.com/hazelcast/hazelcast-spark/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-spark/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-spark
+---
+========== Previous Stable

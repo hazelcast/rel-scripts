@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://network.pivotal.io/products/hazelcast-jet
+Code_Samples_URL: 
+Docs_URL: https://docs.pivotal.io/partners/hazelcast-jet/
+Learn_More_URL: 
+---
+========== Previous Stable

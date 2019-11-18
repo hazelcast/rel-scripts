@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 2.2.2
+Download_URL: https://repo.spring.io/release/org/springframework/integration/spring-integration-hazelcast/
+Code_Samples_URL: 
+Docs_URL: https://github.com/spring-projects/spring-integration-extensions/tree/master/spring-integration-hazelcast
+Learn_More_URL: 
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version:  
+Download_URL: 
+Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/influxdb
+Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/influxdb#usage
+Learn_More_URL: 
+---
+========== Previous Stable

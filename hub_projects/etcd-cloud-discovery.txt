@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.8.3
+Download_URL: https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi/blob/master/README.md
+Learn_More_URL: https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi
+---
+========== Previous Stable

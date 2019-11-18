@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.1.2
+Download_URL: https://github.com/hazelcast/charts
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/charts/blob/master/README.md
+Learn_More_URL: 
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 0.1
+Download_URL: https://hub.docker.com/r/hazelcast/management-center/
+Code_Samples_URL: 
+Docs_URL: 
+Learn_More_URL: https://hub.docker.com/r/hazelcast/management-center/
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 
+Download_URL: https://docs.hazelcast.org/docs/latest/manual/html-single/#memcache-client
+Code_Samples_URL: 
+Docs_URL: https://docs.hazelcast.org/docs/latest/manual/html-single/#memcache-client
+Learn_More_URL: 
+---
+========== Previous Stable

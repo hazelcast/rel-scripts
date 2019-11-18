@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 1.0-RC4
+Download_URL: https://github.com/bitsofinfo/hazelcast-consul-discovery-spi/releases
+Code_Samples_URL: 
+Docs_URL: https://www.consul.io/docs/index.html
+Learn_More_URL: https://github.com/bitsofinfo/hazelcast-consul-discovery-spi
+---
+========== Previous Stable

@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version:  0.2
+Download_URL: https://github.com/hazelcast/hazelcast-jclouds/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-jclouds/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-jclouds
+---
+========== Previous Stable

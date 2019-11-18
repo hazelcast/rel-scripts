@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version:  
+Download_URL: https://discourse.igniterealtime.org/t/introducing-hazelcast-a-new-way-to-cluster-openfire/68700
+Code_Samples_URL: 
+Docs_URL: 
+Learn_More_URL: 
+---
+========== Previous Stable
