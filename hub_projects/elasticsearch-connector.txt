@@ -7,3 +7,16 @@ Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/blob/master/elastic
 Learn_More_URL: 
 ---
 ========== Previous Stable
+---
+Version: 6.x.x
+Download_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/elasticsearch/elasticsearch-6
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/blob/master/elasticsearch/elasticsearch-6/README.md
+Learn_More_URL: 
+---
+Version: 5.6.x
+Download_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/elasticsearch/elasticsearch-5
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/blob/master/elasticsearch/elasticsearch-5/README.md
+Learn_More_URL: 
+---
