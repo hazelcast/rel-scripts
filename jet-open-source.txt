@@ -1,7 +1,7 @@
 ========== Current Stable
 ---
 Version: 3.2
-Date: 18/10/2019
+Date: 10/18/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.2.zip
 Download_ZIP_Size:
 Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.2.tar.gz
@@ -17,7 +17,7 @@ Github: https://github.com/hazelcast/hazelcast-jet/tree/v3.2
 ========== Previous Stable
 ---
 Version: 3.1
-Date: 24/06/2019
+Date: 06/24/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.1.zip
 Download_ZIP_Size:
 Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-3.1.tar.gz
@@ -45,7 +45,7 @@ CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-jet/tree/v3.0
 ---
 Version: 0.7.2
-Date: 19/12/2018
+Date: 12/19/2018
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.2.zip
 Download_ZIP_Size:
 Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-0.7.2.tar.gz
