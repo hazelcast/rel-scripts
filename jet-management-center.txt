@@ -16,6 +16,20 @@ Github:
 ---
 ========== Management Center Previous Stable
 ---
+Version: 3.1
+Date: 06/24/2019
+Download_ZIP_URL: https://download.hazelcast.com/hazelcast-jet-management-center/hazelcast-jet-management-center-3.1.zip
+Download_ZIP_Size: 42 MB
+Download_TAR_URL: https://download.hazelcast.com/hazelcast-jet-management-center/hazelcast-jet-management-center-3.1.tar.gz
+Download_TAR_Size: 42 MB
+Docs_HTML: https://docs.hazelcast.org/docs/jet-management-center/3.1/manual/
+Docs_PDF:
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/jet-management-center/rn/index.html
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github:
+---
 Version: 3.0
 Date: 04/11/2019
 Download_ZIP_URL: https://download.hazelcast.com/hazelcast-jet-management-center/hazelcast-jet-management-center-3.0.zip
