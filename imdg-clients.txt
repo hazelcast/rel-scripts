@@ -3,7 +3,7 @@
 Version: 3.12.4
 Date: 10/30/2019
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.4&p=
-Download_Size: 196 MB
+Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.4
 Docs: http://docs.hazelcast.org/docs/3.12.4/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/3.12.4/javadoc
