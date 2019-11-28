@@ -26,7 +26,7 @@ Docs_HTML: https://docs.hazelcast.org/docs/jet/3.1/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.1/javadoc/
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-1
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/3.1-maintenance
 CodeSamples_Size:
 Github:
 ---
@@ -40,7 +40,7 @@ Docs_HTML: https://docs.hazelcast.org/docs/jet/3.0/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.0/javadoc/
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-0
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/3.0-maintenance
 CodeSamples_Size:
 Github:
 ---
@@ -54,7 +54,7 @@ Docs_HTML: https://docs.hazelcast.org/docs/jet/0.7.2/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/0.7.2/javadoc/
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7-2
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.7-maintenance
 CodeSamples_Size:
 Github:
 ---
@@ -68,7 +68,7 @@ Docs_HTML: https://docs.hazelcast.org/docs/jet/0.7/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/0.7/javadoc/
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7
-CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples
+CodeSamples: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/0.7-maintenance
 CodeSamples_Size:
 Github:
 ---
