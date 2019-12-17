@@ -1362,18 +1362,18 @@ Github: https://github.com/hazelcast/hazelcast/tree/v1.9.4.9
 ---
 ========== Development: SHOW
 ---
-Version: 4.0-BETA-1
-Date: 12/06/2019
-Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0-BETA-1&p=
-Download_ZIP_Size: 93 MB
-Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0-BETA-1&type=tar&p=
-Download_TAR_Size: 72 MB
-Docs_HTML: https://docs.hazelcast.org/docs/4.0-BETA-1/manual/html-single/index.html
-Docs_PDF: https://docs.hazelcast.org/docs/4.0-BETA-1/manual/pdf/index.pdf
-APIDocs: https://docs.hazelcast.org/docs/4.0-BETA-1/javadoc
-ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4.0-BETA-1
-CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.0-BETA-1.zip
+Version: 4.0-BETA-2
+Date: 12/17/2019
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0-BETA-2&p=
+Download_ZIP_Size: 63 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0-BETA-2&type=tar&p=
+Download_TAR_Size: 60 MB
+Docs_HTML: https://docs.hazelcast.org/docs/4.0-BETA-2/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/4.0-BETA-2/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/4.0-BETA-2/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4.0-BETA-2
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.0-BETA-2.zip
 CodeSamples_Size: 35 MB
-Github: https://github.com/hazelcast/hazelcast/tree/v4.0-BETA-1
+Github: https://github.com/hazelcast/hazelcast/tree/v4.0-BETA-2
 ---
 === END
