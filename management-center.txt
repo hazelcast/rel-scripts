@@ -1,7 +1,7 @@
 ========== Management Center Current Stable
 ---
 Version: 3.12.8
-Date: 19/12/2019
+Date: 12/19/2019
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.8.zip
 Download_ZIP_Size: 57 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.8.tar.gz
