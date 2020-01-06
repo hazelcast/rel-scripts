@@ -36,5 +36,5 @@ Install Hazelcast from the official Helm Chart via this command:
 ---
 helm repo add hazelcast https://hazelcast.github.io/charts/ 
 helm repo update
-helm install --set image.tag=3.2.1 hazelcast/hazelcast-jet-enterprise
+helm install --set image.tag=3.2 hazelcast/hazelcast-jet-enterprise
 ---
