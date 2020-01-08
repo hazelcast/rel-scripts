@@ -3,9 +3,9 @@
 Version: 3.2.1
 Date: 12/23/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.1.zip
-Download_ZIP_Size: 
+Download_ZIP_Size: 70 MB
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.1.tar.gz
-Download_TAR_Size:
+Download_TAR_Size: 62 MB
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.2.1/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.2.1/javadoc/
@@ -19,9 +19,9 @@ Github:
 Version: 3.2
 Date: 10/18/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.zip
-Download_ZIP_Size: 
+Download_ZIP_Size: 70 MB
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.2.tar.gz
-Download_TAR_Size:
+Download_TAR_Size: 62 MB
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.2/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.2/javadoc/
@@ -33,9 +33,9 @@ Github:
 Version: 3.1
 Date: 06/23/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.1.zip
-Download_ZIP_Size: 
+Download_ZIP_Size: 108 MB
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.1.tar.gz
-Download_TAR_Size: 
+Download_TAR_Size: 101 MB
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.1/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.1/javadoc/
@@ -47,9 +47,9 @@ Github:
 Version: 3.0
 Date: 04/11/2019
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.0.zip
-Download_ZIP_Size: 
+Download_ZIP_Size: 108 MB
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-3.0.tar.gz
-Download_TAR_Size: 
+Download_TAR_Size: 101 MB
 Docs_HTML: https://docs.hazelcast.org/docs/jet/3.0/manual/
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/jet/3.0/javadoc/
