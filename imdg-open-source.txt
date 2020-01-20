@@ -1371,7 +1371,7 @@ Download_TAR_Size: 60 MB
 Docs_HTML: https://docs.hazelcast.org/docs/4.0-BETA-2/manual/html-single/index.html
 Docs_PDF: https://docs.hazelcast.org/docs/4.0-BETA-2/manual/pdf/index.pdf
 APIDocs: https://docs.hazelcast.org/docs/4.0-BETA-2/javadoc
-ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4.0-BETA-2
+ReleaseNotes:
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.0-BETA-2.zip
 CodeSamples_Size: 35 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0-BETA-2
