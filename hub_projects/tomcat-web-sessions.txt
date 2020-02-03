@@ -2,7 +2,7 @@
 ---
 Version: 3.6.3
 Download_URL: https://github.com/hazelcast/hazelcast-tomcat-sessionmanager/releases
-Code_Samples_URL: 
+Code_Samples_URL: https://example.com
 Docs_URL: https://github.com/hazelcast/hazelcast-tomcat-sessionmanager/blob/master/README.md
 Learn_More_URL: https://github.com/hazelcast/hazelcast-tomcat-sessionmanager
 ---
