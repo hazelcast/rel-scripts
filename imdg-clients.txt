@@ -72,6 +72,15 @@ Docs: http://docs.hazelcast.org/docs/3.12/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/3.12/javadoc
 ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12
 ---
+Version: 3.11.7
+Date: 02/20/2020
+Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.7&p=
+Download_Size: 126 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v3.11.7
+Docs: http://docs.hazelcast.org/docs/3.11.7/manual/html-single/index.html
+APIDocs: http://docs.hazelcast.org/docs/3.11.7/javadoc
+ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-7
+---
 Version: 3.11.6
 Date: 12/06/2019
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.6&p=
@@ -134,6 +143,15 @@ Github: https://github.com/hazelcast/hazelcast/tree/v3.11
 Docs: http://docs.hazelcast.org/docs/3.11/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/3.11/javadoc
 ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11
+---
+Version: 3.10.7
+Date: 02/20/2020
+Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.7&p=
+Download_Size: 70 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v3.10.7
+Docs: http://docs.hazelcast.org/docs/3.10.7/manual/html-single/index.html
+APIDocs: http://docs.hazelcast.org/docs/3.10.7/javadoc
+ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-7
 ---
 Version: 3.10.6
 Date: 10/10/2018

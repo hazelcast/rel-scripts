@@ -114,6 +114,20 @@ CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samp
 CodeSamples_Size: 35 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12
 ---
+Version: 3.11.7
+Date: 02/20/2020
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.7&p=
+Download_ZIP_Size: 126 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.7&type=tar&p=
+Download_TAR_Size: 112 MB
+Docs_HTML: https://docs.hazelcast.org/docs/3.11.7/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/3.11.7/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/3.11.7/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-11-7
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-3.11.7.zip
+CodeSamples_Size: 35 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v3.11.7
+---
 Version: 3.11.6
 Date: 12/06/2019
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.6&p=
@@ -211,6 +225,20 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-11
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-3.11.zip
 CodeSamples_Size: 35 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11
+---
+Version: 3.10.7
+Date: 02/20/2020
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.7&p=
+Download_ZIP_Size: 70 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.7&type=tar&p=
+Download_TAR_Size: 55 MB
+Docs_HTML: https://docs.hazelcast.org/docs/3.10.7/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/3.10.7/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/3.10.7/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-10-7
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-3.10.7.zip
+CodeSamples_Size: 20 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v3.10.7
 ---
 Version: 3.10.6
 Date: 10/10/2018
