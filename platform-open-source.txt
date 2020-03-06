@@ -1,26 +1,13 @@
 ========== Current Stable
 ---
-Version: 1.0
-Date: 02/04/2020
-Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-1.0&p=
-Download_ZIP_Size: 10 MB
-Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0&type=tar&p=
-Download_TAR_Size: 10 MB
-Docs_HTML: https://docs.hazelcast.org/docs/4.0/manual/html-single/index.html
-Docs_PDF: https://docs.hazelcast.org/docs/4.0/manual/pdf/index.pdf
-ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0
+Version: 4.0
+Date: 03/06/2020
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-4.0&p=
+Download_ZIP_Size: 278 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-4.0&type=tar&p=
+Download_TAR_Size: 272 MB
 ---
 ========== Previous Stable
----
-Version: 0.9
-Date: 02/04/2020
-Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-1.0&p=
-Download_ZIP_Size: 10 MB
-Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0&type=tar&p=
-Download_TAR_Size: 10 MB
-Docs_HTML: https://docs.hazelcast.org/docs/4.0/manual/html-single/index.html
-Docs_PDF: https://docs.hazelcast.org/docs/4.0/manual/pdf/index.pdf
-ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0
 ---
 ========== Development: HIDE
 ---
