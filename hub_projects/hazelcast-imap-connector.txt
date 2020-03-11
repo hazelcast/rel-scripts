@@ -1,9 +1,9 @@
 ========== Current Stable
 ---
-Version:  
-Download_URL: 
-Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet-code-samples/blob/3.1-maintenance/hazelcast-connectors/src/main/java/MapPredicateAndProjection.java
-Docs_URL: https://docs.hazelcast.org/docs/latest-dev/manual/html-single/index.html#entry-processor
+Version: 4.0  
+Download_URL: https://search.maven.org/artifact/com.hazelcast.jet/hazelcast-jet/4.0/jar 
+Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet/blob/v4.0/examples/imdg-connectors/src/main/java/com/hazelcast/jet/examples/imdg/MapPredicateAndProjection.java
+Docs_URL: https://jet-start.sh/docs/api/sources-sinks#imap
 Learn_More_URL: 
 ---
 ========== Previous Stable

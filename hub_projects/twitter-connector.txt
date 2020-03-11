@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 0.1  
+Download_URL: https://search.maven.org/artifact/com.hazelcast.jet.contrib/twitter/0.1/jar 
+Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/twitter
+Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/twitter
+Learn_More_URL: 
+---
+========== Previous Stable

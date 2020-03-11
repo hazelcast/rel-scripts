@@ -1,9 +1,9 @@
 ========== Current Stable
 ---
-Version: 5.6.x
-Download_URL: https://github.com/hazelcast/hazelcast-jet-code-samples/tree/3.1-maintenance/source-builder
-Code_Samples_URL: 
-Docs_URL: https://docs.hazelcast.org/docs/jet/3.1/manual/#source-sink-builder
+Version: 4.0
+Download_URL: https://search.maven.org/artifact/com.hazelcast.jet/hazelcast-jet/4.0/jar
+Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet/tree/v4.0/examples/source-sink-builder 
+Docs_URL: https://jet-start.sh/docs/api/sources-sinks#custom-sources-and-sinks
 Learn_More_URL: 
 ---
 ========== Previous Stable

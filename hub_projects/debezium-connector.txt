@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 0.1  
+Download_URL: https://search.maven.org/artifact/com.hazelcast.jet.contrib/debezium/0.1/jar 
+Code_Samples_URL: https://jet-start.sh/docs/tutorials/cdc
+Docs_URL: https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/debezium
+Learn_More_URL: 
+---
+========== Previous Stable
