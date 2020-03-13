@@ -268,12 +268,12 @@ Download_Size: 64.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.4
 Docs: http://docs.hazelcast.org/docs/3.8.4/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/3.8.4/javadoc
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.8.3
 Date: 07/04/2017
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.3&p=
-Download_Size: 67.2 MB 
+Download_Size: 67.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.3
 Docs: http://docs.hazelcast.org/docs/3.8.3/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/3.8.3/javadoc
@@ -430,7 +430,7 @@ Download_Size: 98.5 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.0/manual/html-single/index.html#hazelcast-java-client
 APIDocs: http://docs.hazelcast.org/docs/clients/java/3.6/
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.6-RC1
 Date: 01/10/2016
@@ -660,6 +660,24 @@ APIDocs: http://docs.hazelcast.org/docs/clients/net/3.6-EA2/
 ReleaseNotes:
 ---
 ========== C++ Client
+---
+Version: 3.12.1
+Date: 01/28/2020
+Download_Linux32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_32.zip
+Download_Linux32_Size: 11 MB
+Download_Linux64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_64.zip
+Download_Linux64_Size: 12 MB
+Download_Mac64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Mac_64.zip
+Download_Mac64_Size: 8.9 MB
+Download_Windows32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_32.zip
+Download_Windows32_Size: 31 MB
+Download_Windows64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_64.zip
+Download_Windows64_Size: 37 MB
+Docs: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-docs.zip
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12.1
+Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12.1/README.md
+APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.12.1/html/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.12.1
 ---
 Version: 3.12
 Date: 04/25/2019
@@ -906,6 +924,15 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 3.12.2
+Date: 03/02/2020
+Download: https://files.pythonhosted.org/packages/a9/3b/3166b3b4a36abd2181be53195ac8a6186c8318baad2a222dbee893ae0e90/hazelcast-python-client-3.12.2.tar.gz
+Download_Size: 238 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v3.12.2
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v3.12.2/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-python-client/3.12.2/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12.2
+---
 Version: 3.12.1
 Date: 07/15/2019
 Download: https://files.pythonhosted.org/packages/ac/3e/25e577816124e6705ab442fcba9a4a61532fad6554a2ef66739be175daa7/hazelcast-python-client-3.12.1.tar.gz
@@ -1020,10 +1047,19 @@ Download: https://pypi.python.org/packages/source/h/hazelcast-python-client/haze
 Download_Size: 80.2 KB
 Github: https://github.com/hazelcast/hazelcast-python-client/tree/v0.1
 Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v0.1/README.rst
-APIDocs: 
+APIDocs:
 ReleaseNotes:
 ---
 ========== NodeJS Client
+---
+Version: 3.12.2
+Date: 01/31/2020
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.2.zip
+Download_Size: 6.8 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.2
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.2/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.2/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.2
 ---
 Version: 3.12.1
 Date: 07/25/2019
@@ -1148,7 +1184,7 @@ Download: https://github.com/hazelcast/hazelcast-nodejs-client/releases/download
 Download_Size: 187.3 KB
 Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.2.1
 Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.2.1/README.md
-APIDocs: 
+APIDocs:
 ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.2.1
 ---
 Version: 0.2.0
@@ -1178,7 +1214,7 @@ Download_Size: 331 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.9.1
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.9.1/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.7.2
 Date: 09/22/2016
@@ -1187,7 +1223,7 @@ Download_Size: 331 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.7.2
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.7.2/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.7.1
 Date: 09/21/2016
@@ -1196,7 +1232,7 @@ Download_Size: 330.9 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.7.1
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.7.1/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.7.0
 Date: 09/20/2016
@@ -1205,7 +1241,7 @@ Download_Size: 331 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.7.0
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.7.0/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.6.2
 Date: 09/21/2016
@@ -1214,7 +1250,7 @@ Download_Size: 331.4 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.6.2
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.6.2/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.6.1
 Date: 08/31/2016
@@ -1223,7 +1259,7 @@ Download_Size: 331.4 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.6.1
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.6.1/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 3.6.0
 Date: 08/04/2016
@@ -1232,7 +1268,7 @@ Download_Size: 330.9 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v3.6.0
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v3.6.0/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 0.2.0
 Date: 06/14/2016
@@ -1241,7 +1277,7 @@ Download_Size: 323 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v0.2.0
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v0.2.0/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 0.1.0
 Date: 05/25/2016
@@ -1250,7 +1286,7 @@ Download_Size: 319.2 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v0.1.0
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v0.1.0/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 0.0.1.12
 Date: 05/11/2016
@@ -1259,7 +1295,7 @@ Download_Size: 318.4 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.12
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.12/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 0.0.1.11
 Date: 04/21/2016
@@ -1268,7 +1304,7 @@ Download_Size: 314.6 KB
 Github: https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.11
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.11/README.md
 APIDocs: https://github.com/hazelcast/hazelcast-scala/wiki
-ReleaseNotes: 
+ReleaseNotes:
 ---
 Version: 0.0.1.10
 Date: 04/14/2016
@@ -1305,8 +1341,17 @@ Github: https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.7
 Docs: https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.7/README.md
 APIDocs:
 ReleaseNotes:
-sss
+---
 ========== Go Client
+---
+Version: 0.6.0
+Date: 03/11/2020
+Download: https://github.com/hazelcast/hazelcast-go-client/archive/v0.6.0.zip
+Download_Size: 799 KB
+Github: https://github.com/hazelcast/hazelcast-go-client
+Docs: https://github.com/hazelcast/hazelcast-go-client/blob/v0.6.0/README.md
+APIDocs: https://godoc.org/github.com/hazelcast/hazelcast-go-client
+ReleaseNotes: https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.6.0
 ---
 Version: 0.5
 Date: 03/20/2019
