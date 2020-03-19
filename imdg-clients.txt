@@ -924,6 +924,15 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 3.12.3
+Date: 03/19/2020
+Download: https://files.pythonhosted.org/packages/fc/73/f71e5c1183205b707a1be786462fd9ece04c71a608fc0d235e127d5e2d3c/hazelcast-python-client-3.12.3.tar.gz
+Download_Size: 240 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v3.12.3
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v3.12.3/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-python-client/3.12.3/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12.3
+---
 Version: 3.12.2
 Date: 03/02/2020
 Download: https://files.pythonhosted.org/packages/a9/3b/3166b3b4a36abd2181be53195ac8a6186c8318baad2a222dbee893ae0e90/hazelcast-python-client-3.12.2.tar.gz
