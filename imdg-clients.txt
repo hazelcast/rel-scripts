@@ -673,7 +673,7 @@ Download_Windows32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-
 Download_Windows32_Size: 31 MB
 Download_Windows64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_64.zip
 Download_Windows64_Size: 37 MB
-Docs: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-docs.zip
+Docs_Download: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12.1
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12.1/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.12.1/html/
