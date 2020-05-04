@@ -479,6 +479,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 3.12.2
+Date: 05/04/2020
+Download: http://download.hazelcast.com/clients/3.12.2/hazelcast-csharp-client-3.12.2.zip
+Download_Size: 7.4 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.2
+Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.2/README.md
+APIDocs: https://hazelcast.github.io/hazelcast-csharp-client/3.12.2/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.12.2
+---
 Version: 3.12.1
 Date: 08/09/2019
 Download: http://download.hazelcast.com/clients/3.12.1/hazelcast-csharp-client-3.12.1.zip
