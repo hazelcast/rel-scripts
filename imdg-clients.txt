@@ -1088,6 +1088,15 @@ ReleaseNotes:
 ---
 ========== NodeJS Client
 ---
+Version: 3.12.3
+Date: 05/08/2020
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.3.zip
+Download_Size: 6.8 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.3
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.3/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.3/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.3
+---
 Version: 3.12.2
 Date: 01/31/2020
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.2.zip
