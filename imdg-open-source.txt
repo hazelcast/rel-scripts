@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 4.0.2
+Date: 07/02/2020
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.2&p=
+Download_ZIP_Size: 103 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.2&type=tar&p=
+Download_TAR_Size: 102 MB
+Docs_HTML: https://docs.hazelcast.org/docs/4.0.2/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/4.0.2/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/4.0.2/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0-2
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.0.2.zip
+CodeSamples_Size: 36 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.0.2
+---
+========== Previous Stable
+---
 Version: 4.0.1
 Date: 04/09/2020
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.1&p=
@@ -13,8 +29,6 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0-1
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.0.1.zip
 CodeSamples_Size: 36 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0.1
----
-========== Previous Stable
 ---
 Version: 4.0
 Date: 02/04/2020
