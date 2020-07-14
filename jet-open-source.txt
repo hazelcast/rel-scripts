@@ -9,7 +9,7 @@ Download_TAR_Size: 102 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://jet-start.sh/javadoc/4.2
-ReleaseNotes: 
+ReleaseNotes: https://jet-start.sh/blog/2020/07/14/jet-42-is-released
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.2-maintenance/examples
 CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-jet/tree/v4.2
