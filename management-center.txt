@@ -1,5 +1,21 @@
 ========== Management Center Current Stable
 ---
+Version: 4.2020.08
+Date: 08/11/2020
+Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.08.zip
+Download_ZIP_Size: 82.7 MB
+Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.08.tar.gz
+Download_TAR_Size: 82.8 MB
+Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/html/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/pdf/hazelcast-management-center-documentation-4.2020.08.pdf
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-08
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github:
+---
+========== Management Center Previous Stable
+---
 Version: 4.0.3
 Date: 06/05/2020
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.0.3.zip
@@ -13,8 +29,6 @@ ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
----
-========== Management Center Previous Stable
 ---
 Version: 4.0.2
 Date: 04/29/2020
