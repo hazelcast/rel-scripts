@@ -72,6 +72,20 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
+Version: 3.12.12
+Date: 09/08/2020
+Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.12.zip
+Download_ZIP_Size: 84.3 MB
+Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.12.tar.gz
+Download_TAR_Size: 84.3 MB
+Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.12/manual/html/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.12/manual/pdf/hazelcast-management-center-documentation-3.12.12.pdf
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-12
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github:
+---
 Version: 3.12.11
 Date: 07/13/2020
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12.11.zip
