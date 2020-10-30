@@ -6,8 +6,8 @@ Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-man
 Download_ZIP_Size: 100.5 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.10.tar.gz
 Download_TAR_Size: 100.6 MB
-Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.10.war
-Download_TAR_Size: 99.4 MB
+Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.10.war
+Download_WAR_Size: 99.4 MB
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/pdf/hazelcast-management-center-documentation-4.2020.10.pdf
 APIDocs:
