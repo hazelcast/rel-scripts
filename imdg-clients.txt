@@ -1160,6 +1160,15 @@ Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.0.0/README.md
 APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.0/docs/
 ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.0
 ---
+Version: 3.12.4
+Date: 11/23/2020
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.4.zip
+Download_Size: 6.5 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.4
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.4/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.4/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.4
+---
 Version: 3.12.3
 Date: 05/08/2020
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.3.zip
