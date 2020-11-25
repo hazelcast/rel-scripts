@@ -766,7 +766,7 @@ Download_Windows64_Size: 9.07 MB
 Docs_Download: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md
-APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/index.html
 ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0-BETA
 ---
 Version: 3.12.1
