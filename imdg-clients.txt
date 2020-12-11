@@ -542,6 +542,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 4.0-BETA
+Date: 12/11/2020
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.0-preview.5.beta
+Download_Size: 1 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.0-preview.5.beta
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/dev/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/dev/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.0-preview.5.beta
+---
 Version: 3.12.3
 Date: 06/17/2020
 Download: http://download.hazelcast.com/clients/3.12.3/hazelcast-csharp-client-3.12.3.zip
