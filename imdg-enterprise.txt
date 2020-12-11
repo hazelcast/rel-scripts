@@ -72,6 +72,20 @@ CodeSamples_URL:
 CodeSamples_Size:
 Github:
 ---
+Version: 3.12.11
+Date: 12/11/2020
+Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.11.zip
+Download_ZIP_Size: 176 MB
+Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.11.tar.gz
+Download_TAR_Size: 159 MB
+Docs_HTML: https://docs.hazelcast.org/docs/3.12.11/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/3.12.11/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/3.12.11/javadoc/
+ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#3-12-11
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
 Version: 3.12.10
 Date: 10/19/2020
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-3.12.10.zip
