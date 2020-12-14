@@ -787,6 +787,24 @@ Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md
 APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/index.html
 ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0-BETA
 ---
+Version: 4.0-BETA
+Date: 11/25/2020
+Download_Linux32: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-Linux_32.zip
+Download_Linux32_Size: 11.2 MB
+Download_Linux64: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-Linux_64.zip
+Download_Linux64_Size: 12.4 MB
+Download_Mac64: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-Mac_64.zip
+Download_Mac64_Size: 9.62 MB
+Download_Windows32: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-Windows_32.zip
+Download_Windows32_Size: 12.9 MB
+Download_Windows64: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-Windows_64.zip
+Download_Windows64_Size: 17.8 MB
+Docs_Download: https://github.com/hazelcast/hazelcast-cpp-client/releases/download/v4.0-BETA/hazelcast-cpp-client-4.0-BETA-docs.zip
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0-BETA
+---
 Version: 3.12.1
 Date: 01/28/2020
 Download_Linux32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_32.zip
