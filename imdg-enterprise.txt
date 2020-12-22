@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 4.1.1
+Date: 12/22/2020
+Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.1.1.zip
+Download_ZIP_Size: 137 MB
+Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.1.1.tar.gz
+Download_TAR_Size: 137 MB
+Docs_HTML: http://docs.hazelcast.org/docs/4.1.1/manual/html-single/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/4.1.1/manual/pdf/index.pdf
+APIDocs: http://docs.hazelcast.org/docs/4.1.1/javadoc
+ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#4-1-1
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
+========== Previous Stable
+---
 Version: 4.1
 Date: 11/04/2020
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.1.zip
@@ -13,8 +29,6 @@ ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#4-1
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
----
-========== Previous Stable
 ---
 Version: 4.0.3
 Date: 09/21/2020
