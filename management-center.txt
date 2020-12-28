@@ -16,6 +16,8 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
+========== Management Center Previous Stable
+---
 Version: 4.2020.10
 Date: 10/29/2020
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2020.10.zip
@@ -31,8 +33,6 @@ ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
----
-========== Management Center Previous Stable
 ---
 Version: 4.2020.08
 Date: 08/11/2020
