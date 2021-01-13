@@ -1077,6 +1077,15 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 4.0
+Date: 01/13/2021
+Download: https://files.pythonhosted.org/packages/e4/39/7f597fda732018097495c62da18d9bd5c08383ae7afb5f5c724d73c68c49/hazelcast-python-client-4.0.tar.gz
+Download_Size: 174 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v4.0
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v4.0/README.rst
+APIDocs: https://hazelcast.readthedocs.io/en/v4.0/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.0
+---
 Version: 4.0.0b1
 Date: 11/24/2020
 Download: https://files.pythonhosted.org/packages/25/1c/9539bab359bdd329d963db027d01f361f616ec6d28ffe21cdf974ab09317/hazelcast-python-client-4.0.0b1.tar.gz
