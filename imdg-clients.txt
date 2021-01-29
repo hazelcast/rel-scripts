@@ -1230,6 +1230,15 @@ ReleaseNotes:
 ---
 ========== NodeJS Client
 ---
+Version: 4.0.2
+Date: 29/01/2020
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.0.2.zip
+Download_Size: 2.8 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.0.2
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.0.2/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.2/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.2
+---
 Version: 4.1.0
 Date: 25/01/2020
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.1.0.zip
