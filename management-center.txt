@@ -8,8 +8,8 @@ Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-man
 Download_TAR_Size: 113.9 MB
 Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.02.war
 Download_WAR_Size: 131.9 MB
-Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.2021.02/manual/html/index.html
-Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.2021.02/manual/pdf/hazelcast-management-center-documentation-4.2021.02.pdf
+Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.02
+Docs_PDF:
 APIDocs:
 ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4.2021.02
 CodeSamples_URL: NONE AVAILABLE
