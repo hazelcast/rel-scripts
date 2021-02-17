@@ -1583,7 +1583,5 @@ Docs_PDF: https://docs.hazelcast.org/docs/4.2-BETA-1/manual/pdf/index.pdf
 APIDocs: https://docs.hazelcast.org/docs/4.2-BETA-1/javadoc
 ReleaseNotes:
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.2-BETA-1.zip
-CodeSamples_Size: 
-Github: https://github.com/hazelcast/hazelcast/tree/v4.2-BETA-1
----
+CodeSamples_Size: 39 MB
 === END
