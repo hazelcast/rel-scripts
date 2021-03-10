@@ -16,6 +16,20 @@ Github: https://github.com/hazelcast/hazelcast-jet/tree/v4.4
 ---
 ========== Previous Stable
 ---
+Version: 4.3.1
+Date: 03/10/2021
+Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-4.3.1.zip
+Download_ZIP_Size: 107 MB
+Download_TAR_URL: https://download.hazelcast.com/jet/hazelcast-jet-4.3.1.tar.gz
+Download_TAR_Size: 107 MB
+Docs_HTML: https://jet-start.sh/docs
+Docs_PDF:
+APIDocs: https://jet-start.sh/javadoc/4.3.1
+ReleaseNotes: https://jet-start.sh/blog/2020/10/23/jet-43-is-released
+CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v4.3.1
+---
 Version: 4.3
 Date: 10/23/2020
 Download_ZIP_URL: https://download.hazelcast.com/jet/hazelcast-jet-4.3.zip

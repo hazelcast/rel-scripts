@@ -1,0 +1,40 @@
+========== Maven
+---
+Click to copy, then paste the following snippets into your build:
+---
+<repository>
+    <id>private-repository</id>
+    <name>Hazelcast Private Repository</name>
+    <url>https://repository.hazelcast.com/release/</url>
+</repository>
+
+<dependency>
+    <groupId>com.hazelcast.jet</groupId>
+    <artifactId>hazelcast-jet-enterprise</artifactId>
+    <version>4.3.1</version>
+</dependency>
+---
+========== Gradle
+---
+Click to copy, then paste the following snippets into your build:
+---
+compile 'com.hazelcast.jet:hazelcast-jet-enterprise:4.3.1'
+---
+========== Docker
+---
+Pull hazelcast docker image from Docker registry via this command:
+---
+docker pull hazelcast/hazelcast-jet-enterprise
+---
+After that you should be able to run Hazelcast docker image by:
+---
+docker run -e JET_LICENSE_KEY=<your_license_key> -ti hazelcast/hazelcast-jet-enterprise
+---
+========== Helm
+---
+Install Hazelcast from the official Helm Chart via this command: 
+---
+helm repo add hazelcast https://hazelcast.github.io/charts/ 
+helm repo update
+helm install --set image.tag=4.3 hazelcast/hazelcast-jet-enterprise
+---
