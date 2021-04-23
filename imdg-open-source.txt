@@ -16,6 +16,20 @@ Github: https://github.com/hazelcast/hazelcast/tree/v4.2
 ---
 ========== Previous Stable
 ---
+Version: 4.1.3
+Date: 04/23/2021
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.3&p=
+Download_ZIP_Size: 140 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.3&type=tar&p=
+Download_TAR_Size: 139 MB
+Docs_HTML: https://docs.hazelcast.com/imdg/4.1.3/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/4.1.3/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-3
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-4.1.3.zip
+CodeSamples_Size: 39 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.1.3
+---
 Version: 4.1.2
 Date: 03/12/2021
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.2&p=
