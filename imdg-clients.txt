@@ -832,6 +832,13 @@ ReleaseNotes:
 ---
 ========== C++ Client
 ---
+Version: 4.1.0
+Date: 05/07/2021
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.0/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/4.1.0/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.1.0
+---
 Version: 4.0.1
 Date: 02/25/2021
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.1
