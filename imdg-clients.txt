@@ -832,18 +832,25 @@ ReleaseNotes:
 ---
 ========== C++ Client
 ---
+Version: 4.1.0
+Date: 05/07/2021
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.0/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.1.0
+---
 Version: 4.0.1
 Date: 02/25/2021
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.1
-Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.1/README.md
-APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/index.html
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.1/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
 ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0.1
 ---
 Version: 4.0.0
 Date: 01/28/2021
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.0
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.0/README.md
-APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
 ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0.0
 ---
 Version: 4.0-BETA
@@ -1144,6 +1151,15 @@ APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.6-EA3/
 ReleaseNotes:
 ---
 ========== Python Client
+---
+Version: 4.1
+Date: 05/03/2021
+Download: https://files.pythonhosted.org/packages/77/c5/d85405a38eac9ddc79bff29bbba118f0b092dee1a35c5c835a3a534d0ce4/hazelcast-python-client-4.1.tar.gz
+Download_Size: 186 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v4.1
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v4.1/README.rst
+APIDocs: https://hazelcast.readthedocs.io/en/v4.1/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.1
 ---
 Version: 4.0
 Date: 01/13/2021
