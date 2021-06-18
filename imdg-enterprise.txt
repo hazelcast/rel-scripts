@@ -1324,7 +1324,7 @@ Github:
 Version: 4.2-BETA-1
 Date: 02/17/2021
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.2-BETA-1.zip
-Download_ZIP_Size: 147 MB
+Download_ZIP_Size: 146 MB
 Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-4.2-BETA-1.tar.gz
 Download_TAR_Size: 147 MB
 Docs_HTML: http://docs.hazelcast.org/docs/4.2-BETA-1/manual/html-single/index.html
