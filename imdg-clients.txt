@@ -1,5 +1,14 @@
 ========== Java Client
 ---
+Version: 4.2.1
+Date: 06/30/2021
+Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2.1&p=
+Download_Size: 148 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.2.1
+Docs: https://docs.hazelcast.com/imdg/4.2/
+APIDocs: https://docs.hazelcast.org/docs/4.2.1/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-1
+---
 Version: 4.2
 Date: 03/24/2021
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2&p=
