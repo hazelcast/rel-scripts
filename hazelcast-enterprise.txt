@@ -41,7 +41,7 @@ Github:
 ========== Development: HIDE
 ---
 Version: 5.0-BETA-1
-Date: 07/07/2021
+Date: 07/08/2021
 Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1.zip
 Download_ZIP_Size: 147 MB
 Download_slim_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1-slim.zip
