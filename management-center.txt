@@ -675,13 +675,13 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
-========== Management Center Development
+========== Management Center Development: SHOW
 ---
-Version: 3.12-ALPHA-1
-Date: 03/07/2019
-Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12-ALPHA-1.zip
+Version: 5.2021.07-BETA-1
+Date: 07/09/2021
+Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.1.zip
 Download_ZIP_Size: 56.2 MB
-Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-3.12-ALPHA-1.tar.gz
+Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.1-ALPHA-1.tar.gz
 Download_TAR_Size: 56.2 MB
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12-ALPHA-1/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12-ALPHA-1/manual/pdf/hazelcast-management-center-documentation-3.12-ALPHA-1.pdf
