@@ -1,0 +1,26 @@
+========== Current Stable
+---
+---
+========== Previous Stable
+---
+---
+========== Development: SHOW
+---
+Version: 5.0-BETA-1
+Date: 07/14/2021
+Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0-BETA-1&p=
+Download_ZIP_Size: 677 MB
+Download_slim_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0-BETA-1-slim&p=
+Download_slim_ZIP_Size: 28 MB
+Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0-BETA-1&type=tar&p=
+Download_TAR_Size: 677 MB
+Download_slim_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0-BETA-1-slim&type=tar&p=
+Download_slim_TAR_Size: 28 MB
+Docs_HTML: https://docs.hazelcast.org/docs/5.0-BETA-1/manual/html-single/index.html
+Docs_PDF: https://docs.hazelcast.org/docs/5.0-BETA-1/manual/pdf/index.pdf
+APIDocs: https://docs.hazelcast.org/docs/5.0-BETA-1/javadoc
+ReleaseNotes:
+CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-5.0-BETA-1.zip
+CodeSamples_Size: 45 MB
+---
+=== END
