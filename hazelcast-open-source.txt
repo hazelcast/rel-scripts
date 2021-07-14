@@ -16,10 +16,10 @@ Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-
 Download_TAR_Size: 677 MB
 Download_slim_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0-BETA-1-slim&type=tar&p=
 Download_slim_TAR_Size: 28 MB
-Docs_HTML: https://docs.hazelcast.org/docs/5.0-BETA-1/manual/html-single/index.html
-Docs_PDF: https://docs.hazelcast.org/docs/5.0-BETA-1/manual/pdf/index.pdf
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0-beta-1/getting-started/quickstart.html
+Docs_PDF: 
 APIDocs: https://docs.hazelcast.org/docs/5.0-BETA-1/javadoc
-ReleaseNotes:
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0-beta-1/release-notes.html
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-5.0-BETA-1.zip
 CodeSamples_Size: 45 MB
 ---
