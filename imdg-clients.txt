@@ -1718,6 +1718,15 @@ ReleaseNotes:
 ---
 ========== Go Client
 ---
+Version: 1.0.0
+Date: 06/13/2021
+Download: https://github.com/hazelcast/hazelcast-go-client/archive/v1.0.0.zip
+Download_Size: 526 KB
+Github: https://github.com/hazelcast/hazelcast-go-client
+Docs: https://github.com/hazelcast/hazelcast-go-client/blob/v1.0.0/README.md
+APIDocs: https://godoc.org/github.com/hazelcast/hazelcast-go-client
+ReleaseNotes: https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.0.0
+---
 Version: 0.6.0
 Date: 03/11/2020
 Download: https://github.com/hazelcast/hazelcast-go-client/archive/v0.6.0.zip
