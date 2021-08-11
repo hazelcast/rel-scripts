@@ -680,8 +680,8 @@ Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-man
 Download_ZIP_Size: 109 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0-BETA-2.tar.gz
 Download_TAR_Size: 109 MB
-Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0-BETA-1.war
-Download_WAR_Size: 133 MB
+Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0-BETA-2.war
+Download_WAR_Size: 132 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/5.0-BETA-2/
 Docs_PDF: 
 APIDocs: 
