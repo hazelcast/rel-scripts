@@ -1,5 +1,14 @@
 ========== Java Client
 ---
+Version: 5.0
+Date: 09/22/2021
+Download: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0&p=
+Download_Size: 680 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0
+Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.0/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
+---
 Version: 4.2.2
 Date: 08/11/2021
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2.2&p=

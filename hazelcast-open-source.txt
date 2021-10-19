@@ -16,6 +16,7 @@ APIDocs: https://docs.hazelcast.org/docs/5.0/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-5.0.zip
 CodeSamples_Size: 45 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0
 ---
 ========== Previous Stable
 ---
@@ -38,5 +39,6 @@ APIDocs: https://docs.hazelcast.org/docs/5.0-BETA-2/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0-beta-2/release-notes.html
 CodeSamples_URL: https://download.hazelcast.com/code-samples/hazelcast-code-samples-5.0-BETA-2.zip
 CodeSamples_Size: 45 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0-BETA-2
 ---
 === END
