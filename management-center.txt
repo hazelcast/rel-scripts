@@ -1,5 +1,23 @@
 ========== Management Center Current Stable
 ---
+Version: 5.0.2
+Date: 11/16/2021
+Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.2.zip
+Download_ZIP_Size: 123.5 MB
+Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.2.tar.gz
+Download_TAR_Size: 123.6 MB
+Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.2.war
+Download_WAR_Size: 139.7 MB
+Docs_HTML: https://docs.hazelcast.com/management-center/5.0.2/
+Docs_PDF:
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-2
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github:
+---
+========== Management Center Previous Stable
+---
 Version: 5.0.1
 Date: 10/26/2021
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-5.0.1.zip
@@ -11,12 +29,10 @@ Download_WAR_Size: 131.9 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/5.0.1/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5.0.1
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-1
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
----
-========== Management Center Previous Stable
 ---
 Version: 5.0
 Date: 09/22/2021
@@ -29,7 +45,7 @@ Download_WAR_Size: 138.1 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/5.0/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5.0
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
@@ -45,7 +61,7 @@ Download_WAR_Size: 137 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.06/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4.2021.06
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-06
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
@@ -61,7 +77,7 @@ Download_WAR_Size: 132.7 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.04/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4.2021.04
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-04
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
@@ -77,7 +93,7 @@ Download_WAR_Size: 131.9 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.03/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4.2021.03
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-03
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
@@ -93,7 +109,7 @@ Download_WAR_Size: 131.9 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.02/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4.2021.02
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-02
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
