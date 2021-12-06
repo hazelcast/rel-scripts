@@ -2,13 +2,13 @@
 ---
 Version: 5.0
 Date: 09/22/2021
-Download_ZIP_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0.zip
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.zip
 Download_ZIP_Size: 681 MB
-Download_slim_ZIP_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.zip
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.zip
 Download_slim_ZIP_Size: 29 MB
-Download_TAR_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0.tar.gz
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.tar.gz
 Download_TAR_Size: 681 MB
-Download_slim_TAR_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.tar.gz
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.tar.gz
 Download_slim_TAR_Size: 29 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
 Docs_PDF:
@@ -25,13 +25,13 @@ Github:
 ---
 Version: 5.0-BETA-2
 Date: 08/10/2021
-Download_ZIP_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.zip
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.zip
 Download_ZIP_Size: 679 MB
-Download_slim_ZIP_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.zip
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.zip
 Download_slim_ZIP_Size: 29 MB
-Download_TAR_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.tar.gz
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.tar.gz
 Download_TAR_Size: 679 MB
-Download_slim_TAR_URL: https://hazelcast.jfrog.io/ui/native/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.tar.gz
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.tar.gz
 Download_slim_TAR_Size: 29 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0-beta-2/getting-started/quickstart.html
 Docs_PDF:
