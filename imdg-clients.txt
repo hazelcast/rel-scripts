@@ -2,7 +2,7 @@
 ---
 Version: 5.0
 Date: 09/22/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-5.0&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0.zip
 Download_Size: 680 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v5.0
 Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
@@ -11,7 +11,7 @@ ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
 ---
 Version: 4.2.2
 Date: 08/11/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2.2/hazelcast-4.2.2.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2.2
 Docs: https://docs.hazelcast.com/imdg/4.2/
@@ -20,7 +20,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-2
 ---
 Version: 4.2.1
 Date: 06/30/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2.1/hazelcast-4.2.1.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2.1
 Docs: https://docs.hazelcast.com/imdg/4.2/
@@ -29,7 +29,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-1
 ---
 Version: 4.2
 Date: 03/24/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2/hazelcast-4.2.zip
 Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2
 Docs: https://docs.hazelcast.com/imdg/4.2/
@@ -38,7 +38,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2
 ---
 Version: 4.1.6
 Date: 10/26/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.6&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.6/hazelcast-4.1.6.zip
 Download_Size: 147 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.6
 Docs: https://docs.hazelcast.com/imdg/4.1/
@@ -47,7 +47,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-6
 ---
 Version: 4.1.5
 Date: 08/17/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.5/hazelcast-4.1.5.zip
 Download_Size: 147 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.5
 Docs: https://docs.hazelcast.com/imdg/4.1/
@@ -56,7 +56,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-5
 ---
 Version: 4.1.4
 Date: 06/23/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.4/hazelcast-4.1.4.zip
 Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.4
 Docs: https://docs.hazelcast.com/imdg/4.1/
@@ -65,7 +65,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-4
 ---
 Version: 4.1.3
 Date: 04/23/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.3/hazelcast-4.1.3.zip
 Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.3
 Docs: https://docs.hazelcast.com/imdg/4.1.3/
@@ -74,7 +74,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-3
 ---
 Version: 4.1.2
 Date: 03/12/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.2/hazelcast-4.1.2.zip
 Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.2
 Docs: https://docs.hazelcast.com/imdg/4.1.2/
@@ -83,7 +83,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-2
 ---
 Version: 4.1.1
 Date: 12/22/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.1/hazelcast-4.1.1.zip
 Download_Size: 130 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.1
 Docs: http://docs.hazelcast.org/docs/4.1.1/manual/html-single/index.html
@@ -92,7 +92,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-1-1
 ---
 Version: 4.1
 Date: 11/04/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1/hazelcast-4.1.zip
 Download_Size: 127 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1
 Docs: http://docs.hazelcast.org/docs/4.1/manual/html-single/index.html
@@ -101,7 +101,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-1
 ---
 Version: 4.0.3
 Date: 09/21/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.3/hazelcast-4.0.3.zip
 Download_Size: 99 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0.3
 Docs: http://docs.hazelcast.org/docs/4.0.3/manual/html-single/index.html
@@ -110,7 +110,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-0-3
 ---
 Version: 4.0.2
 Date: 07/02/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.2/hazelcast-4.0.2.zip
 Download_Size: 103 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0.2
 Docs: http://docs.hazelcast.org/docs/4.0.2/manual/html-single/index.html
@@ -119,7 +119,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-0-2
 ---
 Version: 4.0.1
 Date: 04/09/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.1/hazelcast-4.0.1.zip
 Download_Size: 106 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0.1
 Docs: http://docs.hazelcast.org/docs/4.0.1/manual/html-single/index.html
@@ -128,7 +128,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-0-1
 ---
 Version: 4.0
 Date: 02/04/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0/hazelcast-4.0.zip
 Download_Size: 167 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v4.0
 Docs: http://docs.hazelcast.org/docs/4.0/manual/html-single/index.html
@@ -137,7 +137,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4.0
 ---
 Version: 3.12.12
 Date: 02/09/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.12&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.12/hazelcast-3.12.12.zip
 Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.12
 Docs: https://docs.hazelcast.com/imdg/3.12.12/index.html
@@ -146,7 +146,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-12-12
 ---
 Version: 3.12.11
 Date: 12/11/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.11&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.11/hazelcast-3.12.11.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.11
 Docs: https://docs.hazelcast.org/docs/3.12.11/manual/html-single/index.html
@@ -155,7 +155,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#3-12-11
 ---
 Version: 3.12.10
 Date: 10/19/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.10&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.10/hazelcast-3.12.10.zip
 Download_Size: 148 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v3.12.10
 Docs: http://docs.hazelcast.org/docs/3.12.10/manual/html-single/index.html
@@ -164,7 +164,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-10
 ---
 Version: 3.12.9
 Date: 08/19/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.9&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.9/hazelcast-3.12.9.zip
 Download_Size: 148 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v3.12.9
 Docs: http://docs.hazelcast.org/docs/3.12.9/manual/html-single/index.html
@@ -173,7 +173,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-9
 ---
 Version: 3.12.8
 Date: 06/25/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.8&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.8/hazelcast-3.12.8.zip
 Download_Size: 148 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v3.12.8
 Docs: http://docs.hazelcast.org/docs/3.12.8/manual/html-single/index.html
@@ -182,7 +182,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-8
 ---
 Version: 3.12.7
 Date: 04/30/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.7/hazelcast-3.12.7.zip
 Download_Size: 148 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v3.12.7
 Docs: http://docs.hazelcast.org/docs/3.12.7/manual/html-single/index.html
@@ -191,7 +191,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-7
 ---
 Version: 3.12.6
 Date: 01/30/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.6&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.6/hazelcast-3.12.6.zip
 Download_Size: 148 MB
 Github: https://giithub.com/hazelcast/hazelcast/tree/v3.12.6
 Docs: http://docs.hazelcast.org/docs/3.12.6/manual/html-single/index.html
@@ -200,7 +200,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-6
 ---
 Version: 3.12.5
 Date: 12/10/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.5/hazelcast-3.12.5.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.5
 Docs: http://docs.hazelcast.org/docs/3.12.5/manual/html-single/index.html
@@ -209,7 +209,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-5
 ---
 Version: 3.12.4
 Date: 10/30/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.4/hazelcast-3.12.4.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.4
 Docs: http://docs.hazelcast.org/docs/3.12.4/manual/html-single/index.html
@@ -218,7 +218,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-4
 ---
 Version: 3.12.3
 Date: 10/03/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.3/hazelcast-3.12.3.zip
 Download_Size: 150 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.3
 Docs: http://docs.hazelcast.org/docs/3.12.3/manual/html-single/index.html
@@ -227,7 +227,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-3
 ---
 Version: 3.12.2
 Date: 08/02/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.2/hazelcast-3.12.2.zip
 Download_Size: 150 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.2
 Docs: http://docs.hazelcast.org/docs/3.12.2/manual/html-single/index.html
@@ -236,7 +236,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-2
 ---
 Version: 3.12.1
 Date: 06/11/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12.1/hazelcast-3.12.1.zip
 Download_Size: 152 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12.1
 Docs: http://docs.hazelcast.org/docs/3.12.1/manual/html-single/index.html
@@ -245,7 +245,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12-1
 ---
 Version: 3.12
 Date: 04/09/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.12&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.12/hazelcast-3.12.zip
 Download_Size: 132 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.12
 Docs: http://docs.hazelcast.org/docs/3.12/manual/html-single/index.html
@@ -254,7 +254,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-12
 ---
 Version: 3.11.7
 Date: 02/20/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.7/hazelcast-3.11.7.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.7
 Docs: http://docs.hazelcast.org/docs/3.11.7/manual/html-single/index.html
@@ -263,7 +263,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-7
 ---
 Version: 3.11.6
 Date: 12/06/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.6&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.6/hazelcast-3.11.6.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.6
 Docs: http://docs.hazelcast.org/docs/3.11.6/manual/html-single/index.html
@@ -272,7 +272,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-6
 ---
 Version: 3.11.5
 Date: 11/05/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.5/hazelcast-3.11.5.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.5
 Docs: http://docs.hazelcast.org/docs/3.11.5/manual/html-single/index.html
@@ -281,7 +281,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-5
 ---
 Version: 3.11.4
 Date: 05/09/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.4/hazelcast-3.11.4.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.4
 Docs: http://docs.hazelcast.org/docs/3.11.4/manual/html-single/index.html
@@ -290,7 +290,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-4
 ---
 Version: 3.11.3
 Date: 04/13/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.3/hazelcast-3.11.3.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.3
 Docs: http://docs.hazelcast.org/docs/3.11.3/manual/html-single/index.html
@@ -299,7 +299,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-3
 ---
 Version: 3.11.2
 Date: 02/16/2019
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.2/hazelcast-3.11.2.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.2
 Docs: http://docs.hazelcast.org/docs/3.11.2/manual/html-single/index.html
@@ -308,7 +308,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-2
 ---
 Version: 3.11.1
 Date: 12/18/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11.1/hazelcast-3.11.1.zip
 Download_Size: 126 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11.1
 Docs: http://docs.hazelcast.org/docs/3.11.1/manual/html-single/index.html
@@ -317,7 +317,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11-1
 ---
 Version: 3.11
 Date: 10/23/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.11&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.11/hazelcast-3.11.zip
 Download_Size: 82 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.11
 Docs: http://docs.hazelcast.org/docs/3.11/manual/html-single/index.html
@@ -326,7 +326,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-11
 ---
 Version: 3.10.7
 Date: 02/20/2020
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.7/hazelcast-3.10.7.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.7
 Docs: http://docs.hazelcast.org/docs/3.10.7/manual/html-single/index.html
@@ -335,7 +335,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-7
 ---
 Version: 3.10.6
 Date: 10/10/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.6&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.6/hazelcast-3.10.6.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.6
 Docs: http://docs.hazelcast.org/docs/3.10.6/manual/html-single/index.html
@@ -344,7 +344,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-6
 ---
 Version: 3.10.5
 Date: 09/13/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.5/hazelcast-3.10.5.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.5
 Docs: http://docs.hazelcast.org/docs/3.10.5/manual/html-single/index.html
@@ -353,7 +353,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-5
 ---
 Version: 3.10.4
 Date: 07/27/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.4/hazelcast-3.10.4.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.4
 Docs: http://docs.hazelcast.org/docs/3.10.4/manual/html-single/index.html
@@ -362,7 +362,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-4
 ---
 Version: 3.10.3
 Date: 07/19/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.3/hazelcast-3.10.3.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.3
 Docs: http://docs.hazelcast.org/docs/3.10.3/manual/html-single/index.html
@@ -371,7 +371,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-3
 ---
 Version: 3.10.2
 Date: 06/06/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.2/hazelcast-3.10.2.zip
 Download_Size: 70 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.2
 Docs: http://docs.hazelcast.org/docs/3.10.2/manual/html-single/index.html
@@ -380,7 +380,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-2
 ---
 Version: 3.10.1
 Date: 05/21/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10.1/hazelcast-3.10.1.zip
 Download_Size: 73 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10.1
 Docs: http://docs.hazelcast.org/docs/3.10.1/manual/html-single/index.html
@@ -389,7 +389,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10-1
 ---
 Version: 3.10
 Date: 04/24/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.10&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.10/hazelcast-3.10.zip
 Download_Size: 73 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.10
 Docs: http://docs.hazelcast.org/docs/3.10/manual/html-single/index.html
@@ -398,7 +398,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-10
 ---
 Version: 3.9.4
 Date: 04/20/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.9.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.9.4/hazelcast-3.9.4.zip
 Download_Size: 75 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.9.4
 Docs: http://docs.hazelcast.org/docs/3.9.4/manual/html-single/index.html
@@ -407,7 +407,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-9-4
 ---
 Version: 3.9.3
 Date: 02/16/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.9.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.9.3/hazelcast-3.9.3.zip
 Download_Size: 75 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.9.3
 Docs: http://docs.hazelcast.org/docs/3.9.3/manual/html-single/index.html
@@ -416,7 +416,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-9-3
 ---
 Version: 3.9.2
 Date: 01/03/2018
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.9.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.9.2/hazelcast-3.9.2.zip
 Download_Size: 75 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.9.2
 Docs: http://docs.hazelcast.org/docs/3.9.2/manual/html-single/index.html
@@ -425,7 +425,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-9-2
 ---
 Version: 3.9.1
 Date: 11/30/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.9.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.9.1/hazelcast-3.9.1.zip
 Download_Size: 75 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.9.1
 Docs: http://docs.hazelcast.org/docs/3.9.1/manual/html-single/index.html
@@ -434,7 +434,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#3-9-1
 ---
 Version: 3.9
 Date: 10/23/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.9&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.9/hazelcast-3.9.zip
 Download_Size: 75 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.9
 Docs: http://docs.hazelcast.org/docs/3.9/manual/html-single/index.html
@@ -443,7 +443,7 @@ ReleaseNotes:
 ---
 Version: 3.8.4
 Date: 08/09/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.8.4/hazelcast-3.8.4.zip
 Download_Size: 64.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.4
 Docs: http://docs.hazelcast.org/docs/3.8.4/manual/html-single/index.html
@@ -452,7 +452,7 @@ ReleaseNotes:
 ---
 Version: 3.8.3
 Date: 07/04/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.8.3/hazelcast-3.8.3.zip
 Download_Size: 67.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.3
 Docs: http://docs.hazelcast.org/docs/3.8.3/manual/html-single/index.html
@@ -461,16 +461,16 @@ ReleaseNotes:
 ---
 Version: 3.8.2
 Date: 05/18/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.8.2/hazelcast-3.8.2.zip
 Download_Size: 91.3 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.2
-Docs: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.2&p=
+Docs: https://github.com/hazelcast/hazelcast/releases/download/v3.8.2/hazelcast-3.8.2.zip
 APIDocs: http://docs.hazelcast.org/docs/3.8.2/javadoc
 ReleaseNotes:
 ---
 Version: 3.8.1
 Date: 04/11/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.8.1/hazelcast-3.8.1.zip
 Download_Size: 98.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8.1
 Docs: http://docs.hazelcast.org/docs/3.8.1/manual/html-single/index.html
@@ -479,7 +479,7 @@ ReleaseNotes:
 ---
 Version: 3.8
 Date: 02/18/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.8&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.8/hazelcast-3.8.zip
 Download_Size: 95.4 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.8/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.8/manual/html-single/index.html#hazelcast-java-client
@@ -488,7 +488,7 @@ ReleaseNotes:
 ---
 Version: 3.7.5
 Date: 01/24/2017
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7.5/hazelcast-3.7.5.zip
 Download_Size: 83.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7.5/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.5/manual/html-single/index.html#hazelcast-java-client
@@ -497,7 +497,7 @@ ReleaseNotes:
 ---
 Version: 3.7.4
 Date: 12/09/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7.4/hazelcast-3.7.4.zip
 Download_Size: 79 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7.4/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.4/manual/html-single/index.html#hazelcast-java-client
@@ -506,7 +506,7 @@ ReleaseNotes:
 ---
 Version: 3.7.3
 Date: 11/17/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7.3/hazelcast-3.7.3.zip
 Download_Size: 93.6 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7.3/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.3/manual/html-single/index.html#hazelcast-java-client
@@ -515,7 +515,7 @@ ReleaseNotes:
 ---
 Version: 3.7.2
 Date: 10/04/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7.2/hazelcast-3.7.2.zip
 Download_Size: 93.8 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7.2/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.2/manual/html-single/index.html#hazelcast-java-client
@@ -524,7 +524,7 @@ ReleaseNotes:
 ---
 Version: 3.7.1
 Date: 09/05/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7.1&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7.1/hazelcast-3.7.1.zip
 Download_Size: 93.7 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7.1/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.1/manual/html-single/index.html#hazelcast-java-client
@@ -533,7 +533,7 @@ ReleaseNotes:
 ---
 Version: 3.7
 Date: 08/17/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.7/hazelcast-3.7.zip
 Download_Size: 93 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.7/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.7.0/manual/html-single/index.html#hazelcast-java-client
@@ -542,7 +542,7 @@ ReleaseNotes:
 ---
 Version: 3.6.7
 Date: 12/08/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.7/hazelcast-3.6.7.zip
 Download_Size: 95.5 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.7/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.7/manual/html-single/index.html#hazelcast-java-client
@@ -551,7 +551,7 @@ ReleaseNotes:
 ---
 Version: 3.6.6
 Date: 10/20/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.6&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.6/hazelcast-3.6.6.zip
 Download_Size: 94.5 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.6/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.6/manual/html-single/index.html#hazelcast-java-client
@@ -560,7 +560,7 @@ ReleaseNotes:
 ---
 Version: 3.6.5
 Date: 08/23/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.5&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.5/hazelcast-3.6.5.zip
 Download_Size: 88.6 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.5/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.5/manual/html-single/index.html#hazelcast-java-client
@@ -569,7 +569,7 @@ ReleaseNotes:
 ---
 Version: 3.6.4
 Date: 07/01/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.4/hazelcast-3.6.4.zip
 Download_Size: 84.3 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.4/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.4/manual/html-single/index.html#hazelcast-java-client
@@ -578,7 +578,7 @@ ReleaseNotes:
 ---
 Version: 3.6.3
 Date: 05/29/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.3/hazelcast-3.6.3.zip
 Download_Size: 84.3 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.3/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.3/manual/html-single/index.html#hazelcast-java-client
@@ -587,7 +587,7 @@ ReleaseNotes:
 ---
 Version: 3.6.2
 Date: 04/05/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.2&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.2/hazelcast-3.6.2.zip
 Download_Size: 106.8 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.2/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.2/manual/html-single/index.html#hazelcast-java-client
@@ -596,7 +596,7 @@ ReleaseNotes:
 ---
 Version: 3.6.1
 Date: 02/28/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6.1&p
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6.1/hazelcast-3.6.1.zip
 Download_Size: 94.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6.1/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.1/manual/html-single/index.html#hazelcast-java-client
@@ -605,7 +605,7 @@ ReleaseNotes:
 ---
 Version: 3.6
 Date: 01/25/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6&p
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6/hazelcast-3.6.zip
 Download_Size: 98.5 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6.0/manual/html-single/index.html#hazelcast-java-client
@@ -614,7 +614,7 @@ ReleaseNotes:
 ---
 Version: 3.6-RC1
 Date: 01/10/2016
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6-RC1&p
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6-RC1/hazelcast-3.6-RC1.zip
 Download_Size: 107.6 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6-RC1/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client
@@ -623,7 +623,7 @@ ReleaseNotes:
 ---
 Version: 3.6-EA3
 Date: 12/23/2015
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6-EA3&p
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6-EA3/hazelcast-3.6-EA3.zip
 Download_Size: 109.2 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6-EA3/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6-EA3/manual/html-single/index.html#hazelcast-java-client
@@ -632,7 +632,7 @@ ReleaseNotes:
 ---
 Version: 3.6-EA2
 Date: 11/25/2015
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-3.6-EA2&p
+Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6-EA2/hazelcast-3.6-EA2.zip
 Download_Size: 107.9 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6-EA2/hazelcast-client
 Docs: http://docs.hazelcast.org/docs/3.6-EA2/manual/html-single/index.html#hazelcast-java-client
