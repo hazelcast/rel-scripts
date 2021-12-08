@@ -10,8 +10,8 @@ Docs_HTML: https://github.com/hazelcast/hazelcast-simulator/blob/0.13/README.md
 Docs_PDF:
 APIDocs:
 ReleaseNotes: https://github.com/hazelcast/hazelcast-simulator/releases/tag/v0.13
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.13
 ---
 ========== Simulator Previous Stable
@@ -26,8 +26,8 @@ Docs_HTML: https://github.com/hazelcast/hazelcast-simulator/blob/0.11/README.md
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.11
 ---
 Version: 0.10
@@ -40,8 +40,8 @@ Docs_HTML: https://github.com/hazelcast/hazelcast-simulator/blob/0.10/README.md
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.10
 ---
 Version: 0.9.9
@@ -54,8 +54,8 @@ Docs_HTML: https://docs.hazelcast.org/docs/latest/manual/html-single/index.html#
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.9
 ---
 Version: 0.9.8
@@ -68,8 +68,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.8
 ---
 Version: 0.9.7
@@ -82,8 +82,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.7
 ---
 Version: 0.9.6
@@ -96,8 +96,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.6
 ---
 Version: 0.9.5
@@ -110,8 +110,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF:
 APIDocs:
 ReleaseNotes:
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.5
 ---
 Version: 0.9.4
@@ -124,8 +124,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.4
 ---
 Version: 0.9.3 
@@ -138,8 +138,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.3
 ---
 Version: 0.9.2
@@ -152,8 +152,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.2
 ---
 Version: 0.9.1 
@@ -166,8 +166,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9.1
 ---
 Version: 0.9 
@@ -180,8 +180,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.9
 ---
 Version: 0.8.6 
@@ -278,8 +278,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#h
 Docs_PDF: 
 APIDocs: 
 ReleaseNotes: 
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-simulator/tree/0.6
 ---
 === END
