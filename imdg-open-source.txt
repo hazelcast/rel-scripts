@@ -1678,8 +1678,8 @@ Docs_HTML: http://docs.hazelcast.org/docs/1.9.4.9/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/1.9.4.9/manual/pdf/hazelcast-documentation.pdf
 APIDocs: NO DOCS
 ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#1-9-4-9
-CodeSamples_URL: NONE AVAILABLE
-CodeSamples_Size: NONE AVAILABLE
+CodeSamples_URL:
+CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast/tree/v1.9.4.9
 ---
 ========== Development: SHOW
