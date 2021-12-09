@@ -1336,8 +1336,8 @@ Version: 3.3.1
 Date: 09/29/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.3.1/hazelcast-3.3.1.zip
 Download_ZIP_Size: 45.5 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.3.1/hazelcast-3.3.1.tar.gz
-Download_TAR_Size: 53.1 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.3.1/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.3.1/manual/pdf/hazelcast-documentation-3.3.1.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.3.1/javadoc/
@@ -1350,8 +1350,8 @@ Version: 3.3
 Date: 09/08/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.3/hazelcast-3.3.zip
 Download_ZIP_Size: 44.8 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.3/hazelcast-3.3.tar.gz
-Download_TAR_Size: 43.1 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.3/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.3/manual/pdf/hazelcast-documentation-3.3.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.3/javadoc/
@@ -1364,8 +1364,8 @@ Version: 3.2.7
 Date: 06/16/2015
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.7/hazelcast-3.2.7.zip
 Download_ZIP_Size: 40 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.7/hazelcast-3.2.7.tar.gz
-Download_TAR_Size: 37 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.7/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.7/manual/pdf/hazelcast-documentation-3.2.7.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.7/javadoc/
@@ -1378,8 +1378,8 @@ Version: 3.2.6
 Date: 09/07/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.6/hazelcast-3.2.6.zip
 Download_ZIP_Size: 32.5 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.6/hazelcast-3.2.6.tar.gz
-Download_TAR_Size: 30.7 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.6/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.6/manual/pdf/hazelcast-documentation-3.2.6.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.6/javadoc/
@@ -1392,8 +1392,8 @@ Version: 3.2.5
 Date: 08/14/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.5/hazelcast-3.2.5.zip
 Download_ZIP_Size: 30.7 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.5/hazelcast-3.2.5.tar.gz
-Download_TAR_Size: 28.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.5/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.5/manual/pdf/hazelcast-documentation-3.2.5.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.5/javadoc/
@@ -1406,8 +1406,8 @@ Version: 3.2.4
 Date: 07/21/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.4/hazelcast-3.2.4.zip
 Download_ZIP_Size: 30.7 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.4/hazelcast-3.2.4.tar.gz
-Download_TAR_Size: 28.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.4/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.4/manual/pdf/hazelcast-documentation-3.2.4.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.4/javadoc/
@@ -1420,8 +1420,8 @@ Version: 3.2.3
 Date: 06/17/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.3/hazelcast-3.2.3.zip
 Download_ZIP_Size: 30.6 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.3/hazelcast-3.2.3.tar.gz
-Download_TAR_Size: 28.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.3/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.3/manual/pdf/hazelcast-documentation-3.2.3.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.3/javadoc/
@@ -1434,8 +1434,8 @@ Version: 3.2.2
 Date: 05/27/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.2/hazelcast-3.2.2.zip
 Download_ZIP_Size: 30.7 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.2/hazelcast-3.2.2.tar.gz
-Download_TAR_Size: 28.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.2-ce/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.2-ce/manual/pdf/hazelcast-documentation-3.2.2.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.2-ce/javadoc/
@@ -1448,8 +1448,8 @@ Version: 3.2.1
 Date: 04/28/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.1/hazelcast-3.2.1.zip
 Download_ZIP_Size: 32.3 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2.1/hazelcast-3.2.1.tar.gz
-Download_TAR_Size: 30.5 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2.1-ce/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2.1-ce/manual/pdf/hazelcast-documentation-3.2.1-ee.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2.1-ce/javadoc/
@@ -1462,8 +1462,8 @@ Version: 3.2
 Date: 03/21/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2/hazelcast-3.2.zip
 Download_ZIP_Size: 33.4 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.2/hazelcast-3.2.tar.gz
-Download_TAR_Size: 31.5
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.2/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.2/manual/pdf/hazelcast-documentation-3.2-ee.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.2/javadoc/
@@ -1504,8 +1504,8 @@ Version: 3.0.3
 Date: 10/11/2013
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.0.3/hazelcast-3.0.3.zip
 Download_ZIP_Size: 16.1 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v3.0.3/hazelcast-3.0.3.tar.gz
-Download_TAR_Size: 14.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/3.0.3/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/3.0.3/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/3.0.3/javadoc/
@@ -1518,8 +1518,8 @@ Version: 2.6.9
 Date: 06/03/2014
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.6.9/hazelcast-2.6.9.zip
 Download_ZIP_Size: 19 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.6.9/hazelcast-2.6.9.tar.gz
-Download_TAR_Size: 18.5 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.6.9/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.6.9/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.6.9/javadoc/
@@ -1532,8 +1532,8 @@ Version: 2.5.1
 Date: 04/26/2013
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.5.1/hazelcast-2.5.1.zip
 Download_ZIP_Size: 18.9 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.5.1/hazelcast-2.5.1.tar.gz
-Download_TAR_Size: 18.4 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.5.1/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.5.1/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.5.1/javadoc/
@@ -1546,8 +1546,8 @@ Version: 2.5
 Date: 04/26/2013
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.5/hazelcast-2.5.zip
 Download_ZIP_Size: 18.8 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.5/hazelcast-2.5.tar.gz
-Download_TAR_Size: 18.3 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.5/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.5/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.5/javadoc/
@@ -1560,8 +1560,8 @@ Version: 2.4.1
 Date: 12/13/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.4.1/hazelcast-2.4.1.zip
 Download_ZIP_Size: 18.5 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.4.1/hazelcast-2.4.1.tar.gz
-Download_TAR_Size: 18 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.4.1/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.4.1/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.4.1/javadoc/
@@ -1574,8 +1574,8 @@ Version: 2.4
 Date: 12/13/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.4/hazelcast-2.4.zip
 Download_ZIP_Size: 18.3 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.4/hazelcast-2.4.tar.gz
-Download_TAR_Size: 17.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.4/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.4/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.4/javadoc/
@@ -1588,8 +1588,8 @@ Version: 2.3.1
 Date: 08/31/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.3.1/hazelcast-2.3.1.zip
 Download_ZIP_Size: 17.9 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.3.1/hazelcast-2.3.1.tar.gz
-Download_TAR_Size: 17.4 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.3.1/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.3.1/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.3.1/javadoc/
@@ -1602,8 +1602,8 @@ Version: 2.3
 Date: 08/31/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.3/hazelcast-2.3.zip
 Download_ZIP_Size: 17.9 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.3/hazelcast-2.3.tar.gz
-Download_TAR_Size: 17.4 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.3/manual/html-single/index.html
 Docs_PDF: NO PDF AVAILABLE
 APIDocs: http://docs.hazelcast.org/docs/2.3/javadoc/
@@ -1616,8 +1616,8 @@ Version: 2.2
 Date: 07/24/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.2/hazelcast-2.2.zip
 Download_ZIP_Size: 17.8 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.2/hazelcast-2.2.tar.gz
-Download_TAR_Size: 17.3 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.2/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.2/manual/pdf/hazelcast-2.2-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.2/javadoc/
@@ -1630,8 +1630,8 @@ Version: 2.1.3
 Date: 07/24/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.zip
 Download_ZIP_Size: 17.1 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.tar.gz
-Download_TAR_Size: 16.6 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.1.3/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.1.3/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.1.3/javadoc/
@@ -1644,8 +1644,8 @@ Version: 2.1
 Date: 07/24/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.zip
 Download_ZIP_Size: 18.2 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.tar.gz
-Download_TAR_Size: 16.6 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.1/manual/html-single/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.1/manual/pdf/hazelcast-2.1-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.1/javadoc/
@@ -1658,8 +1658,8 @@ Version: 2.0.4
 Date: 05/28/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.0.4/hazelcast-2.0.4.zip
 Download_ZIP_Size: 14.4 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v2.0.4/hazelcast-2.0.4.tar.gz
-Download_TAR_Size: 13.9 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/2.0.4/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/2.0.4/manual/pdf/hazelcast-documentation.pdf
 APIDocs: http://docs.hazelcast.org/docs/2.0.4/javadoc/
@@ -1672,8 +1672,8 @@ Version: 1.9.4.9
 Date: 05/30/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v1.9.4.9/hazelcast-1.9.4.9.zip
 Download_ZIP_Size: 3.4 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v1.9.4.9/hazelcast-1.9.4.9.tar.gz
-Download_TAR_Size: 3.5 MB
+Download_TAR_URL:
+Download_TAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/1.9.4.9/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/1.9.4.9/manual/pdf/hazelcast-documentation.pdf
 APIDocs: NO DOCS
