@@ -617,7 +617,7 @@ Date: 01/10/2016
 Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6-RC1/hazelcast-3.6-RC1.zip
 Download_Size: 107.6 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6-RC1/hazelcast-client
-Docs: http://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client
+Docs: https://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client
 APIDocs: http://docs.hazelcast.org/docs/3.6-RC1/javadoc/
 ReleaseNotes:
 ---
