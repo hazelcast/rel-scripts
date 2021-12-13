@@ -8,7 +8,7 @@ Download_TAR_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_TAR_Size: 123.6 MB
 Download_WAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.war
 Download_WAR_Size: 139.7 MB
-Docs_HTML: https://docs.hazelcast.com/management-center/5.0.2/
+Docs_HTML: https://docs.hazelcast.com/management-center/5.0/
 Docs_PDF:
 APIDocs:
 ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-2
