@@ -1673,7 +1673,7 @@ Date: 05/30/2012
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v1.9.4.9/hazelcast-1.9.4.9.zip
 Download_ZIP_Size: 3.4 MB
 Download_TAR_URL:
-Download_TAR_Size:
+Download_TAR_Size: 
 Docs_HTML: http://docs.hazelcast.org/docs/1.9.4.9/manual/single_html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/1.9.4.9/manual/pdf/hazelcast-documentation.pdf
 APIDocs: NO DOCS
