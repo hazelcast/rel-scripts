@@ -11,7 +11,7 @@ ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
 ---
 Version: 4.2.3
 Date: 12/15/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2.3&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2.3/hazelcast-4.2.3.zip
 Download_Size: 148 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2.3
 Docs: https://docs.hazelcast.com/imdg/4.2/
@@ -47,7 +47,7 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2
 ---
 Version: 4.1.7
 Date: 12/15/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.1.7&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.7/hazelcast-4.1.7.zip
 Download_Size: 147 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.1.7
 Docs: https://docs.hazelcast.com/imdg/4.1/
@@ -119,7 +119,7 @@ ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-1
 ---
 Version: 4.0.4
 Date: 12/15/2021
-Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.0.4&p=
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.4/hazelcast-4.0.4.zip
 Download_Size: 136 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.0.4
 Docs: https://docs.hazelcast.com/imdg/4.0/
