@@ -9,7 +9,7 @@ Download_TAR_Size: 617 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://jet-start.sh/javadoc/4.5.2
-ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.2
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -25,7 +25,7 @@ Download_TAR_Size: 576 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://jet-start.sh/javadoc/4.5.1
-ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github:
