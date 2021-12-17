@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 4.5.2
+Date: 12/17/2021
+Download_ZIP_URL: https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.zip
+Download_ZIP_Size: 602 MB
+Download_TAR_URL: https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.tar.gz
+Download_TAR_Size: 602 MB
+Docs_HTML: https://jet-start.sh/docs
+Docs_PDF:
+APIDocs: https://jet-start.sh/javadoc/4.5.2
+ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
+CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
+CodeSamples_Size:
+Github: https://github.com/hazelcast/hazelcast-jet/tree/v4.5.2
+---
+========== Previous Stable
+---
 Version: 4.5.1
 Date: 09/10/2021
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.1/hazelcast-jet-4.5.1.zip
@@ -13,8 +29,6 @@ ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github: https://github.com/hazelcast/hazelcast-jet/tree/v4.5.1
----
-========== Previous Stable
 ---
 Version: 4.5
 Date: 04/21/2021
