@@ -16,6 +16,8 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
+========== Management Center Previous Stable
+---
 Version: 5.0.2
 Date: 11/16/2021
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.zip
@@ -31,8 +33,6 @@ ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
----
-========== Management Center Previous Stable
 ---
 Version: 5.0.1
 Date: 10/26/2021
@@ -65,6 +65,22 @@ ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
+---
+Version: 4.2021.12-1
+Date: 12/20/2021
+Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.12-1.zip
+Download_ZIP_Size: 116.0 MB
+Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.12-1.tar.gz
+Download_TAR_Size: 116.1 MB
+Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.12-1.war
+Download_WAR_Size: 137.1 MB
+Docs_HTML: https://docs.hazelcast.com/management-center/4.2021.12-1/
+Docs_PDF:
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12-1
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github
 ---
 Version: 4.2021.12
 Date: 12/13/2021
