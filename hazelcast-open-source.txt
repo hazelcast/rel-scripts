@@ -59,22 +59,22 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0
 ---
 ========== Development: SHOW
 ---
-Version: 5.0-BETA-2
-Date: 08/10/2021
-Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0-BETA-2/hazelcast-5.0-BETA-2.zip
-Download_ZIP_Size: 677 MB
-Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0-BETA-2/hazelcast-5.0-BETA-2-slim.zip
-Download_slim_ZIP_Size: 28 MB
-Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0-BETA-2/hazelcast-5.0-BETA-2.tar.gz
-Download_TAR_Size: 677 MB
-Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0-BETA-2/hazelcast-5.0-BETA-2-slim.tar.gz
-Download_slim_TAR_Size: 28 MB
-Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0-beta-2/getting-started/quickstart.html
-Docs_PDF: 
-APIDocs: https://docs.hazelcast.org/docs/5.0-BETA-2/javadoc
-ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0-beta-2/release-notes.html
-CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0-BETA-2/hazelcast-code-samples-5.0-BETA-2.zip
-CodeSamples_Size: 45 MB
-Github: https://github.com/hazelcast/hazelcast/tree/v5.0-BETA-2
+Version: 5.1-BETA-1
+Date: 01/13/2022
+Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1-BETA-1/hazelcast-5.1-BETA-1.zip
+Download_ZIP_Size: 471 MB
+Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1-BETA-1/hazelcast-5.1-BETA-1-slim.zip
+Download_slim_ZIP_Size: 32 MB
+Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1-BETA-1/hazelcast-5.1-BETA-1.tar.gz
+Download_TAR_Size: 471 MB
+Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1-BETA-1/hazelcast-5.1-BETA-1-slim.tar.gz
+Download_slim_TAR_Size: 32 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1-BETA-1/getting-started/quickstart.html
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/5.1-BETA-1/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.1-BETA-1/release-notes.html
+CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1-BETA-1/hazelcast-code-samples-5.1-BETA-1.zip
+CodeSamples_Size: 
+Github: https://github.com/hazelcast/hazelcast/tree/v5.1-BETA-1
 ---
 === END
