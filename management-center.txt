@@ -83,7 +83,7 @@ CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
 Version: 4.2022.01
-Date: 06/01/2022
+Date: 01/06/2022
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2022.01.zip
 Download_ZIP_Size: 116.0 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2022.01.tar.gz
@@ -803,7 +803,7 @@ Github:
 ========== Management Center Development: SHOW
 ---
 Version: 5.1-BETA-1
-Date: 13/01/2022
+Date: 01/13/2022
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1-BETA-1.zip
 Download_ZIP_Size: 118.3 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1-BETA-1.tar.gz
