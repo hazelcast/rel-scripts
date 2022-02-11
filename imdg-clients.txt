@@ -153,6 +153,15 @@ Docs: http://docs.hazelcast.org/docs/4.1/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/4.1/javadoc
 ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-1
 ---
+Version: 4.0.6
+Date: 02/11/2022
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.6/hazelcast-4.0.6.zip
+Download_Size: 136 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.0.6
+Docs: https://docs.hazelcast.com/imdg/4.0/
+APIDocs: https://docs.hazelcast.org/docs/4.0.6/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0-6
+---
 Version: 4.0.5
 Date: 12/21/2021
 Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.5/hazelcast-4.0.5.zip
