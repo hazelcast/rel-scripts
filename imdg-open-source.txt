@@ -72,6 +72,20 @@ CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2/h
 CodeSamples_Size: 39 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2
 ---
+Version: 4.1.9
+Date: 04/22/2022
+Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.1.9/hazelcast-4.1.9.zip
+Download_ZIP_Size: 151 MB
+Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.1.9/hazelcast-4.1.9.tar.gz
+Download_TAR_Size: 151 MB
+Docs_HTML: https://docs.hazelcast.com/imdg/4.1/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/4.1.9/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-9
+CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.1.9/hazelcast-code-samples-4.1.9.zip
+CodeSamples_Size: 
+Github: https://github.com/hazelcast/hazelcast/tree/v4.1.9
+---
 Version: 4.1.8
 Date: 12/20/2021
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.1.8/hazelcast-4.1.8.zip
