@@ -1092,6 +1092,7 @@ APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
 ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.0.0
 InstallationInstructions_URL: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.0.0/Reference_Manual.md#1-getting-started
 ---
+Version: 4.2.1
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.2.1
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.2.1/Reference_Manual.md
 APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
