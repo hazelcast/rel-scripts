@@ -866,18 +866,16 @@ Github:
 ---
 ========== Management Center Development: SHOW
 ---
-Version: 5.1-BETA-1
-Date: 01/13/2022
-Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1-BETA-1.zip
-Download_ZIP_Size: 118.3 MB
-Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1-BETA-1.tar.gz
-Download_TAR_Size: 118.3 MB
-Download_WAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1-BETA-1.war
-Download_WAR_Size: 133.4 MB
-Docs_HTML: https://docs.hazelcast.com/management-center/5.1-BETA-1/
+Version: 5.2-BETA-1
+Date: 08/22/2022
+Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2-BETA-1.zip
+Download_ZIP_Size: 148.0 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2-BETA-1.tar.gz
+Download_TAR_Size: 148.0 MB
+Docs_HTML: https://docs.hazelcast.com/management-center/5.2-BETA-1/
 Docs_PDF: 
 APIDocs: 
-ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#5.1-BETA-1
+ReleaseNotes: https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-beta-1
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
