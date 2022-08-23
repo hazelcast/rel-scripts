@@ -360,6 +360,20 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
+Version: 3.12.18
+Date: 08/23/2022
+Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.zip
+Download_ZIP_Size: 91.4 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.tar.gz
+Download_TAR_Size: 91.5 MB
+Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.18/manual/html/index.html
+Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.18/manual/pdf/hazelcast-management-center-documentation-3.12.18.pdf
+APIDocs:
+ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-18
+CodeSamples_URL: NONE AVAILABLE
+CodeSamples_Size: NONE AVAILABLE
+Github:
+---
 Version: 3.12.17
 Date: 06/28/2021
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.zip
