@@ -875,7 +875,7 @@ Download_TAR_Size: 148.0 MB
 Docs_HTML: https://docs.hazelcast.com/management-center/5.2-BETA-1/
 Docs_PDF: 
 APIDocs: 
-ReleaseNotes: https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-beta-1
+ReleaseNotes: https://docs.hazelcast.com/management-center/5.2-beta-1/release-notes/5-2-beta-1
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
