@@ -13,7 +13,7 @@ Download_slim_TAR_Size: 37 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.0/javadoc
-ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/5-2-0-release-notes
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0
 CodeSamples_URL:
 CodeSamples_Size:
 Github:

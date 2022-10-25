@@ -7,7 +7,7 @@ Download_Size: 516 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v5.2.0
 Docs: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 APIDocs: https://docs.hazelcast.org/docs/5.2.0/javadoc
-ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/5-2-0-release-notes
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0
 ---
 Version: 5.1.4
 Date: 10/11/2022
