@@ -162,6 +162,15 @@ Docs: https://docs.hazelcast.com/imdg/4.2/
 APIDocs: https://docs.hazelcast.org/docs/4.2/javadoc
 ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2
 ---
+Version: 4.1.10
+Date: 11/18/2022
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.10/hazelcast-4.1.10.zip
+Download_Size: 155 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.1.10
+Docs: https://docs.hazelcast.com/imdg/4.1/
+APIDocs: https://docs.hazelcast.org/docs/4.1.10/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-10
+---
 Version: 4.1.9
 Date: 04/22/2022
 Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.9/hazelcast-4.1.9.zip
