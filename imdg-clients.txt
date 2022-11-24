@@ -72,6 +72,15 @@ Docs: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 APIDocs: https://docs.hazelcast.org/docs/5.1/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.1/release-notes.html
 ---
+Version: 5.0.4
+Date: 11/24/2022
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4.zip
+Download_Size: 471 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0.4
+Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.0.4/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-4
+---
 Version: 5.0.3
 Date: 03/28/2022
 Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3.zip
