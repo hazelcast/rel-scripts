@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 4.5.4
+Date: 12/09/2021
+Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.4.zip
+Download_ZIP_Size: 669 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.4.tar.gz
+Download_TAR_Size: 669 MB
+Docs_HTML: https://jet-start.sh/docs
+Docs_PDF:
+APIDocs: https://jet-start.sh/javadoc/4.5.4
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.4
+CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
+CodeSamples_Size:
+Github:
+---
+========== Previous Stable
+---
 Version: 4.5.3
 Date: 12/21/2021
 Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.3.zip
@@ -13,8 +29,6 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github:
----
-========== Previous Stable
 ---
 Version: 4.5.2
 Date: 12/17/2021
