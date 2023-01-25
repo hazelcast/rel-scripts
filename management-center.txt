@@ -18,10 +18,10 @@ Github:
 ---
 Version: 5.2.0
 Date: 10/24/2022
-Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.0.zip
-Download_ZIP_Size: 148.6 MB
-Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.0.tar.gz
-Download_TAR_Size: 148.6 MB
+Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.zip
+Download_ZIP_Size: 150.0 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.tar.gz
+Download_TAR_Size: 150.0 MB
 Download_WAR_URL:
 Download_WAR_Size:
 Docs_HTML: https://docs.hazelcast.com/management-center/5.2/
