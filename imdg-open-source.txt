@@ -11,7 +11,7 @@ Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/4.2.7/javadoc
 ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-7
 CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.7/hazelcast-code-samples-4.2.7.zip
-CodeSamples_Size: 
+CodeSamples_Size: 39 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2.7
 ---
 ========== Previous Stable
