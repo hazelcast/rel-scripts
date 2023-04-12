@@ -285,10 +285,10 @@ Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise
 Download_TAR_Size: 481 MB
 Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0-BETA-2-slim.tar.gz
 Download_slim_TAR_Size: 40 MB
-Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3-beta-2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.0-BETA-2/javadoc
-ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0-beta-2
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3-beta-2/release-notes/5-3-0
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
