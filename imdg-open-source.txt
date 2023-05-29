@@ -1,5 +1,21 @@
 ========== Current Stable
 ---
+Version: 4.2.8
+Date: 05/29/2023
+Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.8/hazelcast-4.2.8.zip
+Download_ZIP_Size: 156 MB
+Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.8/hazelcast-4.2.8.tar.gz
+Download_TAR_Size: 156 MB
+Docs_HTML: https://docs.hazelcast.com/imdg/4.2/
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/4.2.8/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-8
+CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.8/hazelcast-code-samples-4.2.8.zip
+CodeSamples_Size: 
+Github: https://github.com/hazelcast/hazelcast/tree/v4.2.8
+---
+========== Previous Stable
+---
 Version: 4.2.7
 Date: 02/07/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.7/hazelcast-4.2.7.zip
@@ -13,8 +29,6 @@ ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-7
 CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v4.2.7/hazelcast-code-samples-4.2.7.zip
 CodeSamples_Size: 39 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2.7
----
-========== Previous Stable
 ---
 Version: 4.2.6
 Date: 11/25/2022
