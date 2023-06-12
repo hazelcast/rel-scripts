@@ -1617,6 +1617,14 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 5.3.0
+Date: 06/12/2023
+Download: https://files.pythonhosted.org/packages/76/50/1ca295b2a9c8ba695cf7c4bf83c36dfa2d9313a2d6260823fc605f705326/hazelcast-python-client-5.3.0.tar.gz
+Download_Size: 242.0 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v5.3.0
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v5.3.0/README.rst
+APIDocs: https://hazelcast.readthedocs.io/en/v5.3.0/
+---
 Version: 5.2.0
 Date: 03/31/2023
 Download: https://files.pythonhosted.org/packages/b3/c2/2aa87a77c2157f2a01bb00c34dace0de8c061a885c3e6f2215ab0902ab03/hazelcast-python-client-5.2.0.tar.gz
