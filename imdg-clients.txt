@@ -1867,6 +1867,15 @@ ReleaseNotes:
 ---
 ========== NodeJS Client
 ---
+Version: 5.3.0
+Date: 06/21/2023
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.3.0.zip
+Download_Size: 1.6 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.3.0
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.3.0/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/5.3.0/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.3.0
+---
 Version: 5.2.0
 Date: 12/16/2022
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.2.0.zip
