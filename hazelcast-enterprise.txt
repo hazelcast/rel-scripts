@@ -1,5 +1,25 @@
 ========== Current Stable
 ---
+Version: 5.3.6
+Date: 11/09/2023
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.zip
+Download_ZIP_Size: 542 MB
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.zip
+Download_slim_ZIP_Size: 40 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.tar.gz
+Download_TAR_Size: 542 MB
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.tar.gz
+Download_slim_TAR_Size: 40 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/5.3.6/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-6
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
+========== Previous Stable
+---
 Version: 5.3.5
 Date: 10/24/2023
 Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5.zip
@@ -17,8 +37,6 @@ ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-5
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
----
-========== Previous Stable
 ---
 Version: 5.3.2
 Date: 08/21/2023
