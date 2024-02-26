@@ -92,6 +92,24 @@ CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.0
 CodeSamples_Size: 60 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v5.3.0
 ---
+Version: 5.2.5
+Date: 02/26/2024
+Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.zip
+Download_ZIP_Size: 530 MB
+Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5-slim.zip
+Download_slim_ZIP_Size: 35 MB
+Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.tar.gz
+Download_TAR_Size: 530 MB
+Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5-slim.tar.gz
+Download_slim_TAR_Size: 35 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/docs/5.2.5/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5
+CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-code-samples-5.2.5.zip
+CodeSamples_Size: 
+Github: https://github.com/hazelcast/hazelcast/tree/v5.2.5
+---
 Version: 5.2.4
 Date: 06/13/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4.zip
