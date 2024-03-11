@@ -452,7 +452,6 @@ CodeSamples_URL:
 CodeSamples_Size:
 Github:
 ---
----
 ========== Development: SHOW
 ---
 Version: 5.4.0-BETA-2

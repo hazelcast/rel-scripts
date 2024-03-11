@@ -452,7 +452,6 @@ CodeSamples_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0/h
 CodeSamples_Size: 45 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v5.0
 ---
----
 ========== Development: SHOW
 ---
 Version: 5.4.0-BETA-2
