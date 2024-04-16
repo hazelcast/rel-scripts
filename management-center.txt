@@ -4,7 +4,7 @@ Version: 5.4.0
 Date: 04/15/2024
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.zip
 Download_ZIP_Size: 233.0 MB
-Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.30.tar.gz
+Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.tar.gz
 Download_TAR_Size: 233.0 MB
 Download_WAR_URL:
 Download_WAR_Size:
