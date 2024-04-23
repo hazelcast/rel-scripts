@@ -1,0 +1,19 @@
+========== Data Migration Tool Current Stable
+---
+Version: 5.3.6
+Date: 01/17/2024
+Download_ZIP_URL: https://repository.hazelcast.com/data-migration/com/hazelcast/hazelcast-enterprise-distribution/5.3.6-DM-1/hazelcast-enterprise-distribution-5.3.6-DM-1-slim.zip
+Download_ZIP_Size: 72.05 MB
+Download_TAR_URL: https://repository.hazelcast.com/data-migration/com/hazelcast/hazelcast-enterprise-distribution/5.3.6-DM-1/hazelcast-enterprise-distribution-5.3.6-DM-1-slim.tar.gz
+Download_TAR_Size: 72.08 MB
+Download_WAR_URL:
+Download_WAR_Size:
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/migrate/data-migration-tool
+Docs_PDF:
+APIDocs:
+ReleaseNotes:
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
+=== END
