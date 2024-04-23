@@ -1006,7 +1006,7 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
-========== Management Center Development: SHOW
+========== Management Center Development: HIDE
 ---
 Version: 5.4.0-BETA-2
 Date: 02/13/2024
