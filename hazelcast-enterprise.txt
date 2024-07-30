@@ -12,7 +12,7 @@ Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enter
 Download_slim_TAR_Size: 46 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html
 Docs_PDF:
-APIDocs: https://docs.hazelcast.org/docs/5.5.0/javadoc
+APIDocs: https://docs.hazelcast.org/hazelcast-ee-docs/5.5.0/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0
 CodeSamples_URL:
 CodeSamples_Size:
