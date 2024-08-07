@@ -11,7 +11,7 @@ Download_WAR_Size:
 Docs_HTML: https://docs.hazelcast.com/management-center/5.5/
 Docs_PDF:
 APIDocs:
-ReleaseNotes: :https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-1
+ReleaseNotes: https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-1
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
