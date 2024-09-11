@@ -1,0 +1,8 @@
+========== Flow
+---
+Version: 5.5.0
+Date: 10/28/2024
+Docs: https://docs.hazelcast.com/hz-flow/5.5
+ReleaseNotes: hz-flow/5.5-snapshot/deploying/releases/5-5-0
+---
+=== END
