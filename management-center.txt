@@ -16,6 +16,8 @@ CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
 ---
+========== Management Center Previous Stable
+---
 Version: 5.5.1
 Date: 08/07/2024
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.1.zip
@@ -111,8 +113,6 @@ ReleaseNotes: https://docs.hazelcast.com/management-center/5.3/release-notes/5-3
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
 Github:
----
-========== Management Center Previous Stable
 ---
 Version: 5.3.2
 Date: 08/10/2023
