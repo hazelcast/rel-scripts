@@ -1019,6 +1019,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 5.5.0
+Date: 10/14/2024
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.0
+Download_Size: 2 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.5.0
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.5.0
+---
 Version: 5.4.0
 Date: 06/21/2024
 Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.4.0
