@@ -4,7 +4,7 @@ Version: 5.5.0-BETA
 Date: 10/14/2024
 Download_OS: https://repo1.maven.org/maven2/com/hazelcast/hazelcast-java-client/5.5.0-BETA/hazelcast-java-client-5.5.0-BETA.jar
 Download_OS_Size: 6.1 MB
-Download_EE: https://hazelcast.jfrog.io/artifactory/release/com/hazelcast/hazelcast-enterprise-java-client/5.5.0-BETA/hazelcast-enterprise-java-client-5.5.0-BETA.jar
+Download_EE: https://repository.hazelcast.com/release/com/hazelcast/hazelcast-enterprise-java-client/5.5.0-BETA/hazelcast-enterprise-java-client-5.5.0-BETA.jar
 Download_EE_Size: 6.42 MB
 Github:
 Docs: https://docs.hazelcast.com/hazelcast/5.5/clients/java
