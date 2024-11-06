@@ -1,0 +1,40 @@
+name: Check new links
+
+on:
+  pull_request:
+
+jobs:
+  check_urls:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find changed lines
+        id: changed_lines
+        uses: hestonhoffman/changed-lines@v1
+        with:
+          file_filter: .txt
+
+      - name: Find any URLs in new lines and check they are resolvable
+        run: |
+          echo '${{ steps.changed_lines.outputs.changed_lines }}' | jq --raw-output 'to_entries | .[] | "\(.key): \(.value | join(", "))"' | while read line; do
+            file=$(echo "$line" | cut -d: -f1)
+            lines=$(echo "$line" | cut -d: -f2)
+
+            IFS=',' read -r -a line_numbers <<< "$lines"
+            for line_number in "${line_numbers[@]}"; do
+              # Extract anything that looks like a URL - we don't want to be too strict, we *want* to catch invalid URLs
+              url=$(sed -n "${line_number}p" "$file" | grep --extended-regexp --only-matching '[^[:space:]]*https?://[^[:space:]]*' || true)
+
+              if [[ -n "${url}" ]]; then
+                  status=$(curl --output /dev/null --location --head --write-out "%{http_code}" "${url}" || true)
+
+                  if [[ "${status}" == "200" ]]; then
+                    echo "✅ ${url}"
+                  else
+                    echo "::error::❌ URL '${url}' in ${file} had status ${status}" 1>&2
+                    exit 1
+                  fi
+              fi
+            done
+          done
