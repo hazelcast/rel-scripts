@@ -6,9 +6,9 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 669 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.4.tar.gz
 Download_TAR_Size: 669 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.5.4
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5.4
 ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.4
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
@@ -22,9 +22,9 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 617 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.3.tar.gz
 Download_TAR_Size: 617 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.5.3
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5.3
 ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
@@ -36,9 +36,9 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 617 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.2.tar.gz
 Download_TAR_Size: 617 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.5.2
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5.2
 ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.2
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
@@ -50,9 +50,9 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 576 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.1.tar.gz
 Download_TAR_Size: 576 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.5.1
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5.1
 ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
@@ -64,10 +64,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 573 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.5.tar.gz
 Download_TAR_Size: 573 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.5
-ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -78,10 +78,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 562 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.4.tar.gz
 Download_TAR_Size: 562 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.4
-ReleaseNotes: https://jet-start.sh/blog/2021/02/03/jet-44-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.4
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.4-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -92,10 +92,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 109 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.3.1.tar.gz
 Download_TAR_Size: 109 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.3.1
-ReleaseNotes: https://jet-start.sh/blog/2020/10/23/jet-43-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3.1
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -106,10 +106,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 103 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.3.tar.gz
 Download_TAR_Size: 103 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.3
-ReleaseNotes: https://jet-start.sh/blog/2020/10/23/jet-43-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -120,10 +120,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 103 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.2.tar.gz
 Download_TAR_Size: 103 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.2
-ReleaseNotes: https://jet-start.sh/blog/2020/07/14/jet-42-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.2
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.2
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.2-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -134,10 +134,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 62 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.1.1.tar.gz
 Download_TAR_Size: 62 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.1.1
-ReleaseNotes: https://jet-start.sh/blog/2020/04/29/jet-41-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1.1
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -148,10 +148,10 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 62 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.1.tar.gz
 Download_TAR_Size: 62 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.1
-ReleaseNotes: https://jet-start.sh/blog/2020/04/29/jet-41-is-released
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -162,9 +162,9 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/jet-enterprise/hazel
 Download_ZIP_Size: 47 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/jet-enterprise/hazelcast-jet-enterprise-4.0.tar.gz
 Download_TAR_Size: 47 MB
-Docs_HTML: https://jet-start.sh/docs
+Docs_HTML: https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.0
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.0
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#4-0
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.0-maintenance/examples
 CodeSamples_Size:
