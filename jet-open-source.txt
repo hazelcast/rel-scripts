@@ -150,7 +150,7 @@ Download_TAR_URL: https://github.com/hazelcast/hazelcast-jet/releases/download/v
 Download_TAR_Size: 61 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.1
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1
 ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples
 CodeSamples_Size:
@@ -164,7 +164,7 @@ Download_TAR_URL: https://github.com/hazelcast/hazelcast-jet/releases/download/v
 Download_TAR_Size: 45 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
-APIDocs: https://jet-start.sh/javadoc/4.0
+APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.0
 ReleaseNotes: https://docs.hazelcast.org/docs/jet/release-notes/index.html#4-0
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.0-maintenance/examples
 CodeSamples_Size:
