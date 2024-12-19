@@ -3,7 +3,7 @@
 Version: 4.0 
 Download_URL: https://search.maven.org/artifact/com.hazelcast.jet/hazelcast-jet-avro/4.0/jar
 Code_Samples_URL: https://github.com/hazelcast/hazelcast-jet/tree/v4.0/examples/files/src/main/java/com/hazelcast/jet/examples/files/avro 
-Docs_URL: https://jet-start.sh/docs/api/sources-sinks#apache-avro
+Docs_URL: https://github.com/hazelcast/hazelcast-jet/blob/master/site/docs/api/sources-sinks.md#avro
 Learn_More_URL: 
 ---
 ========== Previous Stable

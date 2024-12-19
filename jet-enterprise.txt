@@ -67,7 +67,7 @@ Download_TAR_Size: 573 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.5
-ReleaseNotes: https://jet-start.sh/blog/2021/04/21/jet-45-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.5
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -81,7 +81,7 @@ Download_TAR_Size: 562 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.4
-ReleaseNotes: https://jet-start.sh/blog/2021/02/03/jet-44-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.4-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -95,7 +95,7 @@ Download_TAR_Size: 109 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3.1
-ReleaseNotes: https://jet-start.sh/blog/2020/10/23/jet-43-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -109,7 +109,7 @@ Download_TAR_Size: 103 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3
-ReleaseNotes: https://jet-start.sh/blog/2020/10/23/jet-43-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -123,7 +123,7 @@ Download_TAR_Size: 103 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.2
-ReleaseNotes: https://jet-start.sh/blog/2020/07/14/jet-42-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.2
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.2-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -137,7 +137,7 @@ Download_TAR_Size: 62 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1.1
-ReleaseNotes: https://jet-start.sh/blog/2020/04/29/jet-41-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples
 CodeSamples_Size:
 Github:
@@ -151,7 +151,7 @@ Download_TAR_Size: 62 MB
 Docs_HTML: https://jet-start.sh/docs
 Docs_PDF:
 APIDocs: https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1
-ReleaseNotes: https://jet-start.sh/blog/2020/04/29/jet-41-is-released
+ReleaseNotes: https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1
 CodeSamples: https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples
 CodeSamples_Size:
 Github:
