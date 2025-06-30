@@ -110,6 +110,24 @@ CodeSamples_URL:
 CodeSamples_Size:
 Github:
 ---
+Version: 5.4.2
+Date: 06/30/2025
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.zip
+Download_ZIP_Size: 695 MB
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.zip
+Download_slim_ZIP_Size: 43 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.tar.gz
+Download_TAR_Size: 695 MB
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.tar.gz
+Download_slim_TAR_Size: 43 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html
+Docs_PDF:
+APIDocs: https://docs.hazelcast.org/hazelcast-ee-docs/5.4.2/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-2
+CodeSamples_URL:
+CodeSamples_Size:
+Github:
+---
 Version: 5.4.1
 Date: 07/11/2024
 Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1.zip
