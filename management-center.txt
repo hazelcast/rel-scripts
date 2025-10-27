@@ -1,6 +1,6 @@
 ========== Management Center Current Stable
 ---
-Version 5.9.0
+Version: 5.9.0
 Date: 10/15/2025
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip
 Download_ZIP_Size: 319.1 MB
@@ -432,7 +432,7 @@ APIDocs:
 ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2022-01
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
-Github
+Github:
 ---
 Version: 4.2021.12-1
 Date: 12/20/2021
@@ -448,7 +448,7 @@ APIDocs:
 ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12-1
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
-Github
+Github:
 ---
 Version: 4.2021.12
 Date: 12/13/2021
@@ -464,7 +464,7 @@ APIDocs:
 ReleaseNotes: http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12
 CodeSamples_URL: NONE AVAILABLE
 CodeSamples_Size: NONE AVAILABLE
-Github
+Github:
 ---
 Version: 4.2021.06
 Date: 06/21/2021
