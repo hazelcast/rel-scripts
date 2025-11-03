@@ -1,13 +1,14 @@
-name: Check new links
+name: Validate
 
 on:
   pull_request:
 
 jobs:
   check_urls:
+    name: Check new links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Find changed lines
         id: changed_lines
@@ -37,4 +38,29 @@ jobs:
                   fi
               fi
             done
+          done
+
+  validate_syntax:
+    name: Validate file syntax
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check files match the expected syntax
+        run: |
+          # Look in all -non "release_meta" txt files
+          find . -type f -name '*.txt' ! -path './release_meta/*' | while read -r file; do
+              # Check the content is _one_ of the following:
+              # "========== {something}"
+              # "=== END"
+              # "---"
+              # "Key: {optional-value}"
+              # Implicitly assumes Unix line endings
+              invalid_lines=$(grep --line-number --invert-match --extended-regexp '^(========== .+|=== END|---|[^:]+:(.*))$' "${file}" || true)
+
+              if [[ -n "$invalid_lines" ]]; then
+                  echo "::error::❌ File ${file} had invalid lines" 1>&2
+                  echo "::error::${invalid_lines}" 1>&2
+                  exit 1
+              fi
           done
