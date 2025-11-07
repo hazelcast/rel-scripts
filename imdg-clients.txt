@@ -1399,6 +1399,14 @@ ReleaseNotes:
 ---
 ========== C++ Client
 ---
+Version: 5.5.0
+Date: 11/07/2025
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.5.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.5.0/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.5.0
+InstallationInstructions_URL: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.5.0/Reference_Manual.md#1-getting-started
+---
 Version: 5.4.0
 Date: 06/13/2025
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.4.0
