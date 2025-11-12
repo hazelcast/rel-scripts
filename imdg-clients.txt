@@ -2472,7 +2472,7 @@ ReleaseNotes:
 Version: 1.5.0
 Date: 11/11/2025
 Download: https://github.com/hazelcast/hazelcast-go-client/archive/v1.5.0.zip
-Download_Size: 975 KB
+Download_Size:
 Github: https://github.com/hazelcast/hazelcast-go-client/tree/v1.5.0
 Docs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.5.0
 APIDocs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.5.0
