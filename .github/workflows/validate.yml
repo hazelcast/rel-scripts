@@ -28,13 +28,21 @@ jobs:
               url=$(sed -n "${line_number}p" "$file" | grep --extended-regexp --only-matching '[^[:space:]]*https?://[^[:space:]]*' || true)
 
               if [[ -n "${url}" ]]; then
+                  # _Try_ to check the existence of a file without downloading via HEAD
                   status=$(curl --output /dev/null --location --head --write-out "%{http_code}" "${url}" || true)
 
                   if [[ "${status}" == "200" ]]; then
                     echo "✅ ${url}"
                   else
-                    echo "::error::❌ URL '${url}' in ${file} had status ${status}" 1>&2
-                    exit 1
+                    # But if it fails, we need to try to download the _actual_ file to figure out if really is missing, or if the server just rejects HEAD request
+                    status=$(curl --output /dev/null --location --write-out "%{http_code}" "${url}" || true)
+  
+                    if [[ "${status}" == "200" ]]; then
+                      echo "✅ ${url}"
+                    else
+                      echo "::error::❌ URL '${url}' in ${file} had status ${status}" 1>&2
+                      exit 1
+                    fi
                   fi
               fi
             done
