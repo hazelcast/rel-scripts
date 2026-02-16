@@ -2072,7 +2072,7 @@ Date: 02/16/2026
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.6.0.zip
 Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.6.0
 Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.6.0/README.md
-APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/5.6.0/docs/
+APIDocs: https://hazelcast.github.io/hazelcast-nodejs-client/api/5.6.0/docs/
 ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.6.0
 ---
 Version: 5.3.0
