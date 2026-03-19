@@ -1,7 +1,9 @@
-name: Validate
+name: Validate metadata
 
 on:
   pull_request:
+    paths:
+      - '**/*.txt'
 
 jobs:
   check_urls:
@@ -60,8 +62,8 @@ jobs:
         run: |
           source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
 
-          # Look in all -non "release_meta" txt files
-          find . -type f -name '*.txt' ! -path './release_meta/*' | while read -r file; do
+          # Look in all -non "release_meta"/".github" txt files
+          find . -type f -name '*.txt' ! -path './release_meta/*' ! -path './.github/*' | while read -r file; do
               # Check the content is _one_ of the following:
               # "========== {something}"
               # "=== END"
