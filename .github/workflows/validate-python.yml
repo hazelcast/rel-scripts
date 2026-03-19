@@ -1,0 +1,28 @@
+name: Validate Python
+
+on:
+  pull_request:
+    paths:
+      - '**/*.py'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: psf/black@stable
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install dependencies
+        run: |
+          pip3 install pytest
+          pip3 install -r .github/python/add-release/requirements.txt
+
+      - name: Run tests
+        run: |
+          pytest .github/python/add-release/tests
