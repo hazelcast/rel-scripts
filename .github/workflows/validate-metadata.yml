@@ -20,6 +20,8 @@ jobs:
 
       - name: Find any URLs in new lines and check they are resolvable
         run: |
+          source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
+
           echo '${{ steps.changed_lines.outputs.changed_lines }}' | jq --raw-output 'to_entries | .[] | "\(.key): \(.value | join(", "))"' | while read line; do
             file=$(echo "$line" | cut -d: -f1)
             lines=$(echo "$line" | cut -d: -f2)
@@ -42,7 +44,7 @@ jobs:
                     if [[ "${status}" == "200" ]]; then
                       echo "✅ ${url}"
                     else
-                      echo "::error::❌ URL '${url}' in ${file} had status ${status}" 1>&2
+                      echoerr "❌ URL '${url}' in ${file} had status ${status}"
                       exit 1
                     fi
                   fi
@@ -58,6 +60,8 @@ jobs:
 
       - name: Check files match the expected syntax
         run: |
+          source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
+
           # Look in all -non "release_meta"/".github" txt files
           find . -type f -name '*.txt' ! -path './release_meta/*' ! -path './.github/*' | while read -r file; do
               # Check the content is _one_ of the following:
@@ -69,8 +73,9 @@ jobs:
               invalid_lines=$(grep --line-number --invert-match --extended-regexp '^(========== .+|=== END|---|[^:]+:(.*))$' "${file}" || true)
 
               if [[ -n "$invalid_lines" ]]; then
-                  echo "::error::❌ File ${file} had invalid lines" 1>&2
-                  echo "::error::${invalid_lines}" 1>&2
+                  echo_group "❌ File ${file} had invalid lines"
+                  echoerr "${invalid_lines}"
+                  echo_group_end
                   exit 1
               fi
           done
