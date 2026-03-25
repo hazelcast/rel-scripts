@@ -1,4 +1,4 @@
-run-name: Add Hazelcast platform release ${{ inputs.VERSION }}
+run-name: Add Hazelcast platform release (`${{ inputs.VERSION }}/${{ inputs.ENVIRONMENT }}`)
 
 on:
   # Called from release orchestrator
