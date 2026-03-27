@@ -1,4 +1,5 @@
-run-name: Add Hazelcast platform release (`${{ inputs.VERSION }}`@${{ inputs.ENVIRONMENT }})
+name: Add Hazelcast platform release
+run-name: ${{ github.workflow }} (`${{ inputs.VERSION }}`@${{ inputs.ENVIRONMENT }})
 
 on:
   # Called from release orchestrator
