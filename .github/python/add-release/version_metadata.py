@@ -29,8 +29,6 @@ class DownloadUrl:
 
             auth = HTTPBasicAuth(username, password) if username and password else None
 
-            logging.debug("auth=%s", auth)
-
             response = requests.head(
                 self.url,
                 allow_redirects=True,
