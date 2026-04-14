@@ -28,6 +28,8 @@ jobs:
   add-release:
     environment: ${{ inputs.ENVIRONMENT }}
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       VERSION: ${{ inputs.VERSION }}
     steps:
