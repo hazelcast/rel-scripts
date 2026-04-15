@@ -41,6 +41,10 @@ jobs:
           DISTINCT_ID: ${{ inputs.distinct_id }}
 
       - uses: actions/checkout@v6
+        # TODO Only for testing, remove
+        # Required to compute diff when making PR
+        with:
+          fetch-depth: 0
 
       - id: resolve-editions
         uses: hazelcast/docker-actions/resolve-editions@master
