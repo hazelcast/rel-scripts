@@ -76,7 +76,7 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
-          git branch "${{ github.job }}_run_${{ github.run_id }}"
+          git checkout -b "${{ github.job }}_run_${{ github.run_id }}"
 
           git commit --all \
             --message="Hazelcast platform release ${VERSION}" \
