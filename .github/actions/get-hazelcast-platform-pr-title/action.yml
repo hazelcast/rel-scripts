@@ -1,0 +1,14 @@
+# To ensure that both setter and getter use the same format
+name: Get Hazelcast Platform PR Title
+
+inputs:
+  hz-version:
+    required: true
+outputs:
+  title:
+    value: Hazelcast platform release ${{ inputs.hz-version }}
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: exit 0

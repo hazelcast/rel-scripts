@@ -1,7 +1,6 @@
 import logging
 import os
 from dataclasses import InitVar, dataclass, field
-from datetime import datetime
 
 import requests
 import semver
@@ -68,8 +67,6 @@ class VersionMetadata:
         """Normalize version and populate derived URLs and metadata."""
         if isinstance(self.version, str):
             self.version = semver.Version.parse(self.version)
-
-        self.date = datetime.now().strftime("%m/%d/%Y")
 
         self.os_downloads = self._build_downloads(
             f"https://github.com/{github_org}/hazelcast/releases/download/v{self.version}/hazelcast-{self.version}"
