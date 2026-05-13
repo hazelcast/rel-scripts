@@ -23,13 +23,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.7.0
 Version: 5.6.0
 Date: 10/15/2025
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0.zip
-Download_ZIP_Size: 781 MB
+Download_ZIP_Size: 818 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.zip
-Download_slim_ZIP_Size: 39 MB
+Download_slim_ZIP_Size: 41 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0.tar.gz
-Download_TAR_Size: 781 MB
+Download_TAR_Size: 818 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.tar.gz
-Download_slim_TAR_Size: 39 MB
+Download_slim_TAR_Size: 41 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.6.0/javadoc
@@ -43,13 +43,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.6.0
 Version: 5.5.0
 Date: 07/26/2024
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0.zip
-Download_ZIP_Size: 695 MB
+Download_ZIP_Size: 728 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
-Download_slim_ZIP_Size: 39 MB
+Download_slim_ZIP_Size: 40 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0.tar.gz
-Download_TAR_Size: 695 MB
+Download_TAR_Size: 728 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.tar.gz
-Download_slim_TAR_Size: 39 MB
+Download_slim_TAR_Size: 40 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.5.0/javadoc
@@ -61,13 +61,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.5.0
 Version: 5.4.0
 Date: 04/15/2024
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0.zip
-Download_ZIP_Size: 648 MB
+Download_ZIP_Size: 679 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0-slim.zip
-Download_slim_ZIP_Size: 39 MB
+Download_slim_ZIP_Size: 41 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0.tar.gz
-Download_TAR_Size: 648 MB
+Download_TAR_Size: 679 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0-slim.tar.gz
-Download_slim_TAR_Size: 39 MB
+Download_slim_TAR_Size: 41 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.4.0/javadoc
@@ -79,13 +79,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.4.0
 Version: 5.3.8
 Date: 07/17/2024
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8.zip
-Download_ZIP_Size: 577 MB
+Download_ZIP_Size: 605 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8.tar.gz
-Download_TAR_Size: 577 MB
+Download_TAR_Size: 605 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 38 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.8/javadoc
@@ -97,13 +97,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.8
 Version: 5.3.7
 Date: 04/03/2024
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7.zip
-Download_ZIP_Size: 554 MB
+Download_ZIP_Size: 580 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7.tar.gz
-Download_TAR_Size: 554 MB
+Download_TAR_Size: 580 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 38 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.7/javadoc
@@ -115,13 +115,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.7
 Version: 5.3.6
 Date: 11/09/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6.zip
-Download_ZIP_Size: 554 MB
+Download_ZIP_Size: 581 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6.tar.gz
-Download_TAR_Size: 554 MB
+Download_TAR_Size: 581 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 38 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.6/javadoc
@@ -133,13 +133,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.6
 Version: 5.3.5
 Date: 10/24/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.5/hazelcast-5.3.5.zip
-Download_ZIP_Size: 554 MB
+Download_ZIP_Size: 581 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.5/hazelcast-5.3.5-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.5/hazelcast-5.3.5.tar.gz
-Download_TAR_Size: 554 MB
+Download_TAR_Size: 581 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.5/hazelcast-5.3.5-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 38 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.5/javadoc
@@ -151,13 +151,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.5
 Version: 5.3.2
 Date: 08/21/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.2/hazelcast-5.3.2.zip
-Download_ZIP_Size: 560 MB
+Download_ZIP_Size: 587 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.2/hazelcast-5.3.2-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.2/hazelcast-5.3.2.tar.gz
-Download_TAR_Size: 560 MB
+Download_TAR_Size: 587 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.2/hazelcast-5.3.2-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 38 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.2/javadoc
@@ -169,13 +169,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.2
 Version: 5.3.1
 Date: 06/09/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.1/hazelcast-5.3.1.zip
-Download_ZIP_Size: 560 MB
+Download_ZIP_Size: 586 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.1/hazelcast-5.3.1-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 38 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.1/hazelcast-5.3.1.tar.gz
-Download_TAR_Size: 560 MB
+Download_TAR_Size: 586 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.1/hazelcast-5.3.1-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 37 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.1/javadoc
@@ -187,13 +187,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.1
 Version: 5.3.0
 Date: 05/19/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.0/hazelcast-5.3.0.zip
-Download_ZIP_Size: 559 MB
+Download_ZIP_Size: 586 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.0/hazelcast-5.3.0-slim.zip
-Download_slim_ZIP_Size: 36 MB
+Download_slim_ZIP_Size: 37 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.0/hazelcast-5.3.0.tar.gz
-Download_TAR_Size: 559 MB
+Download_TAR_Size: 586 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.3.0/hazelcast-5.3.0-slim.tar.gz
-Download_slim_TAR_Size: 36 MB
+Download_slim_TAR_Size: 37 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.3.0/javadoc
@@ -205,13 +205,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.0
 Version: 5.2.5
 Date: 02/26/2024
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.zip
-Download_ZIP_Size: 530 MB
+Download_ZIP_Size: 555 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.tar.gz
-Download_TAR_Size: 530 MB
+Download_TAR_Size: 555 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.5/javadoc
@@ -223,13 +223,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.5
 Version: 5.2.4
 Date: 06/13/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4.zip
-Download_ZIP_Size: 525 MB
+Download_ZIP_Size: 550 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4.tar.gz
-Download_TAR_Size: 525 MB
+Download_TAR_Size: 550 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.4/javadoc
@@ -241,13 +241,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.4
 Version: 5.2.3
 Date: 03/23/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.3/hazelcast-5.2.3.zip
-Download_ZIP_Size: 523 MB
+Download_ZIP_Size: 548 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.3/hazelcast-5.2.3-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.3/hazelcast-5.2.3.tar.gz
-Download_TAR_Size: 523 MB
+Download_TAR_Size: 548 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.3/hazelcast-5.2.3-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.3/javadoc
@@ -259,13 +259,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.3
 Version: 5.2.2
 Date: 02/15/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.2/hazelcast-5.2.2.zip
-Download_ZIP_Size: 522 MB
+Download_ZIP_Size: 547 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.2/hazelcast-5.2.2-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.2/hazelcast-5.2.2.tar.gz
-Download_TAR_Size: 522 MB
+Download_TAR_Size: 547 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.2/hazelcast-5.2.2-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.2/javadoc
@@ -277,13 +277,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.2
 Version: 5.2.1
 Date: 11/14/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.1/hazelcast-5.2.1.zip
-Download_ZIP_Size: 521 MB
+Download_ZIP_Size: 545 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.1/hazelcast-5.2.1-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.1/hazelcast-5.2.1.tar.gz
-Download_TAR_Size: 521 MB
+Download_TAR_Size: 545 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.1/hazelcast-5.2.1-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.1/javadoc
@@ -295,13 +295,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.1
 Version: 5.2.0
 Date: 10/25/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.0/hazelcast-5.2.0.zip
-Download_ZIP_Size: 516 MB
+Download_ZIP_Size: 540 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.0/hazelcast-5.2.0-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 35 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.0/hazelcast-5.2.0.tar.gz
-Download_TAR_Size: 516 MB
+Download_TAR_Size: 540 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.2.0/hazelcast-5.2.0-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.2.0/javadoc
@@ -313,13 +313,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.2.0
 Version: 5.1.7
 Date: 06/19/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.7/hazelcast-5.1.7.zip
-Download_ZIP_Size: 480 MB
+Download_ZIP_Size: 502 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.7/hazelcast-5.1.7-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.7/hazelcast-5.1.7.tar.gz
-Download_TAR_Size: 480 MB
+Download_TAR_Size: 502 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.7/hazelcast-5.1.7-slim.tar.gz
-Download_slim_TAR_Size: 35 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.7/javadoc
@@ -331,13 +331,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.7
 Version: 5.1.6
 Date: 05/10/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.6/hazelcast-5.1.6.zip
-Download_ZIP_Size: 479 MB
+Download_ZIP_Size: 502 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.6/hazelcast-5.1.6-slim.zip
-Download_slim_ZIP_Size: 35 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.6/hazelcast-5.1.6.tar.gz
-Download_TAR_Size: 479 MB
+Download_TAR_Size: 502 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.6/hazelcast-5.1.6-slim.tar.gz
-Download_slim_TAR_Size: 34 MB
+Download_slim_TAR_Size: 36 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.6/javadoc
@@ -349,13 +349,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.6
 Version: 5.1.5
 Date: 11/14/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.5/hazelcast-5.1.5.zip
-Download_ZIP_Size: 477 MB
+Download_ZIP_Size: 500 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.5/hazelcast-5.1.5-slim.zip
-Download_slim_ZIP_Size: 34 MB
+Download_slim_ZIP_Size: 36 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.5/hazelcast-5.1.5.tar.gz
-Download_TAR_Size: 477 MB
+Download_TAR_Size: 499 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.5/hazelcast-5.1.5-slim.tar.gz
-Download_slim_TAR_Size: 34 MB
+Download_slim_TAR_Size: 35 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.5/javadoc
@@ -367,13 +367,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.5
 Version: 5.1.4
 Date: 10/11/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.4/hazelcast-5.1.4.zip
-Download_ZIP_Size: 472 MB
+Download_ZIP_Size: 495 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.4/hazelcast-5.1.4-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 34 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.4/hazelcast-5.1.4.tar.gz
-Download_TAR_Size: 472 MB
+Download_TAR_Size: 495 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.4/hazelcast-5.1.4-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.4/javadoc
@@ -385,13 +385,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.4
 Version: 5.1.3
 Date: 08/01/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.3/hazelcast-5.1.3.zip
-Download_ZIP_Size: 474 MB
+Download_ZIP_Size: 496 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.3/hazelcast-5.1.3-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 34 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.3/hazelcast-5.1.3.tar.gz
-Download_TAR_Size: 474 MB
+Download_TAR_Size: 496 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.3/hazelcast-5.1.3-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.3/javadoc
@@ -403,13 +403,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.3
 Version: 5.1.2
 Date: 06/13/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.2/hazelcast-5.1.2.zip
-Download_ZIP_Size: 474 MB
+Download_ZIP_Size: 496 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.2/hazelcast-5.1.2-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 34 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.2/hazelcast-5.1.2.tar.gz
-Download_TAR_Size: 474 MB
+Download_TAR_Size: 496 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.2/hazelcast-5.1.2-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.2/javadoc
@@ -421,13 +421,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.2
 Version: 5.1.1
 Date: 03/17/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.1/hazelcast-5.1.1.zip
-Download_ZIP_Size: 479 MB
+Download_ZIP_Size: 502 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.1/hazelcast-5.1.1-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 34 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.1/hazelcast-5.1.1.tar.gz
-Download_TAR_Size: 479 MB
+Download_TAR_Size: 502 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1.1/hazelcast-5.1.1-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1.1/javadoc
@@ -439,13 +439,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1.1
 Version: 5.1
 Date: 03/01/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1/hazelcast-5.1.zip
-Download_ZIP_Size: 479 MB
+Download_ZIP_Size: 502 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1/hazelcast-5.1-slim.zip
-Download_slim_ZIP_Size: 33 MB
+Download_slim_ZIP_Size: 34 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1/hazelcast-5.1.tar.gz
-Download_TAR_Size: 479 MB
+Download_TAR_Size: 502 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.1/hazelcast-5.1-slim.tar.gz
-Download_slim_TAR_Size: 33 MB
+Download_slim_TAR_Size: 34 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.1/javadoc
@@ -457,11 +457,11 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.1
 Version: 5.0.5
 Date: 06/28/2023
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.5/hazelcast-5.0.5.zip
-Download_ZIP_Size: 471 MB
+Download_ZIP_Size: 494 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.5/hazelcast-5.0.5-slim.zip
 Download_slim_ZIP_Size: 30 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.5/hazelcast-5.0.5.tar.gz
-Download_TAR_Size: 471 MB
+Download_TAR_Size: 494 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.5/hazelcast-5.0.5-slim.tar.gz
 Download_slim_TAR_Size: 30 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
@@ -475,13 +475,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0.5
 Version: 5.0.4
 Date: 11/24/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4.zip
-Download_ZIP_Size: 471 MB
+Download_ZIP_Size: 493 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4-slim.zip
-Download_slim_ZIP_Size: 29 MB
+Download_slim_ZIP_Size: 30 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4.tar.gz
-Download_TAR_Size: 471 MB
+Download_TAR_Size: 493 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4-slim.tar.gz
-Download_slim_TAR_Size: 29 MB
+Download_slim_TAR_Size: 30 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.0.4/javadoc
@@ -493,13 +493,13 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0.4
 Version: 5.0.3
 Date: 03/28/2022
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3.zip
-Download_ZIP_Size: 469 MB
+Download_ZIP_Size: 491 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3-slim.zip
-Download_slim_ZIP_Size: 28 MB
+Download_slim_ZIP_Size: 29 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3.tar.gz
-Download_TAR_Size: 469 MB
+Download_TAR_Size: 491 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3-slim.tar.gz
-Download_slim_TAR_Size: 28 MB
+Download_slim_TAR_Size: 29 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
 Docs_PDF:
 APIDocs: https://docs.hazelcast.org/docs/5.0.3/javadoc
@@ -511,11 +511,11 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0.3
 Version: 5.0.2
 Date: 12/21/2021
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2.zip
-Download_ZIP_Size: 722 MB
+Download_ZIP_Size: 757 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2-slim.zip
 Download_slim_ZIP_Size: 28 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2.tar.gz
-Download_TAR_Size: 722 MB
+Download_TAR_Size: 757 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2-slim.tar.gz
 Download_slim_TAR_Size: 28 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
@@ -529,11 +529,11 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0.2
 Version: 5.0.1
 Date: 12/17/2021
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1.zip
-Download_ZIP_Size: 722 MB
+Download_ZIP_Size: 756 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1-slim.zip
 Download_slim_ZIP_Size: 28 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1.tar.gz
-Download_TAR_Size: 722 MB
+Download_TAR_Size: 756 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1-slim.tar.gz
 Download_slim_TAR_Size: 28 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
@@ -547,11 +547,11 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0.1
 Version: 5.0
 Date: 09/22/2021
 Download_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0.zip
-Download_ZIP_Size: 680 MB
+Download_ZIP_Size: 712 MB
 Download_slim_ZIP_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0-slim.zip
 Download_slim_ZIP_Size: 28 MB
 Download_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0.tar.gz
-Download_TAR_Size: 680 MB
+Download_TAR_Size: 712 MB
 Download_slim_TAR_URL: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0-slim.tar.gz
 Download_slim_TAR_Size: 28 MB
 Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
