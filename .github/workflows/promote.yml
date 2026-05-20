@@ -49,6 +49,8 @@ jobs:
       - name: Find corresponding staged PR
         id: find-pr
         run: |
+          set -o errexit -o nounset -o pipefail ${RUNNER_DEBUG:+-x}
+
           source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
 
           PR_JSON=$(gh pr list \
