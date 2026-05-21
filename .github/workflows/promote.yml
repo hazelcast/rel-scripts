@@ -58,8 +58,12 @@ jobs:
             --json number,headRefName \
             --jq '.[0]')
 
+          echodebug "PR search result - ${PR_JSON}"
+
           PR_NUMBER=$(jq -r .number <<< "${PR_JSON}")
           PR_BRANCH=$(jq -r .headRefName <<< "${PR_JSON}")
+
+          echo "Found PR = #${PR_NUMBER}, branch = ${PR_BRANCH}"
 
           if [[ -n "${PR_NUMBER}" || -n "${PR_BRANCH}" ]]; then
             echo "PR_NUMBER=${PR_NUMBER}" >> ${GITHUB_OUTPUT}
@@ -79,6 +83,7 @@ jobs:
       - name: Update release date in files
         run: |
           export TBC_RELEASE_DATE=$(date +%m/%d/%Y)
+          echo "Updating TBC_RELEASE_DATE -> ${TBC_RELEASE_DATE}..."
 
           find . -type f -name "*.txt" -print0 | while IFS= read -r -d '' file; do
             envsubst '$TBC_RELEASE_DATE' < "${file}" > "${file}.tmp" && mv "${file}.tmp" "${file}"
