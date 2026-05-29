@@ -24,7 +24,9 @@ on:
 
 jobs:
   package:
-    environment: ${{ inputs.ENVIRONMENT }}
+    environment:
+      name: ${{ inputs.ENVIRONMENT }}
+      deployment: false
     runs-on: ubuntu-slim
     permissions:
       contents: write
