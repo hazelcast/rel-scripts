@@ -45,7 +45,7 @@ def update_hazelcast_open_source_metadata(version_metadata: VersionMetadata):
 
     version_block = f"""---
 Version: {version_metadata.version}
-Date: {version_metadata.date}
+Date: ${{TBC_RELEASE_DATE}}
 Download_ZIP_URL: {version_metadata.os_downloads.full_zip.url}
 Download_ZIP_Size: {version_metadata.os_downloads.full_zip.size}
 Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.url}
@@ -74,7 +74,7 @@ def update_hazelcast_enterprise_metadata(version_metadata: VersionMetadata):
 
     version_block = f"""---
 Version: {version_metadata.version}
-Date: {version_metadata.date}
+Date: ${{TBC_RELEASE_DATE}}
 Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.url}
 Download_ZIP_Size: {version_metadata.ee_downloads.full_zip.size}
 Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.url}
@@ -153,7 +153,7 @@ def update_imdg_clients_metadata(version_metadata: VersionMetadata):
 
     version_block = f"""---
 Version: {version_metadata.version}
-Date: {version_metadata.date}
+Date: ${{TBC_RELEASE_DATE}}
 Download: {version_metadata.os_downloads.slim_zip.url}
 Download_Size: {version_metadata.os_downloads.slim_zip.size}
 Github: {version_metadata.sources_url}
