@@ -21,6 +21,9 @@ on:
         description: 'Environment to use'
         required: true
         type: environment
+      distinct_id:
+        description: 'Required exclusively for automated execution to track status of workflow execution'
+        required: false
 
 jobs:
   package:
@@ -33,6 +36,12 @@ jobs:
       id-token: write
       pull-requests: write
     steps:
+        # https://github.com/Codex-/return-dispatch#receiving-repository-action
+      - name: Logging distinct ID (${{ inputs.distinct_id }})
+        run: echo "${DISTINCT_ID}"
+        env:
+          DISTINCT_ID: ${{ inputs.distinct_id }}
+
       - uses: actions/checkout@v6
         # Required to get the default branch as well, to allow `gh` to accurately determine the diff between branches when deriving PR title from commits 
         with:
