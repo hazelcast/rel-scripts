@@ -39,7 +39,7 @@ jobs:
           DISTINCT_ID: ${{ inputs.distinct_id }}
 
       - name: Checkout repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - uses: ./.github/actions/get-hazelcast-platform-pr-title
         id: get-pr-title
@@ -76,7 +76,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
 
       - name: 'Checkout PR #${{ steps.find-pr.outputs.PR_NUMBER }} (`${{ steps.find-pr.outputs.PR_BRANCH }}`)'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           ref: ${{ steps.find-pr.outputs.PR_BRANCH }}
 

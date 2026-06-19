@@ -42,7 +42,7 @@ jobs:
         env:
           DISTINCT_ID: ${{ inputs.distinct_id }}
 
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         # Required to get the default branch as well, to allow `gh` to accurately determine the diff between branches when deriving PR title from commits 
         with:
           fetch-depth: 0

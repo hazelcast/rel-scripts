@@ -10,7 +10,7 @@ jobs:
     name: Check new links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Find changed lines
         id: changed_lines
@@ -56,7 +56,7 @@ jobs:
     name: Validate file syntax
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Check files match the expected syntax
         run: |
