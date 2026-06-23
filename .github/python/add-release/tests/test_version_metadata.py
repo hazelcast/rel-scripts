@@ -12,12 +12,14 @@ vm = pytest.importorskip("version_metadata")
 
 def test_build_downloads():
     version_metadata = vm.VersionMetadata("5.4.1", "hazelcast", "download")
-    downloads = version_metadata._build_downloads("https://example.com/foo")
+    downloads = version_metadata._build_downloads(
+        "https://example.com/foo", "https://example.com/bar"
+    )
 
-    assert downloads.full_zip.url == "https://example.com/foo.zip"
-    assert downloads.slim_zip.url == "https://example.com/foo-slim.zip"
-    assert downloads.full_tar.url == "https://example.com/foo.tar.gz"
-    assert downloads.slim_tar.url == "https://example.com/foo-slim.tar.gz"
+    assert downloads.full_zip.live_url == "https://example.com/foo.zip"
+    assert downloads.slim_zip.live_url == "https://example.com/foo-slim.zip"
+    assert downloads.full_tar.live_url == "https://example.com/foo.tar.gz"
+    assert downloads.slim_tar.live_url == "https://example.com/foo-slim.tar.gz"
 
 
 def test_download_size():
@@ -25,7 +27,7 @@ def test_download_size():
     slim_zip = version_metadata.os_downloads.slim_zip
 
     assert (
-        slim_zip.url
+        slim_zip.live_url
         == "https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.zip"
     )
     assert slim_zip.size == "41 MB"
