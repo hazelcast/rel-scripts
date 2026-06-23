@@ -11,7 +11,7 @@ vm = pytest.importorskip("version_metadata")
 
 
 def test_build_downloads():
-    version_metadata = vm.VersionMetadata("5.4.1", "hazelcast", "download")
+    version_metadata = vm.VersionMetadata("5.4.1", "hazelcast", "download", "preprod")
     downloads = version_metadata._build_downloads(
         "https://example.com/foo", "https://example.com/bar"
     )
@@ -23,7 +23,7 @@ def test_build_downloads():
 
 
 def test_download_size():
-    version_metadata = vm.VersionMetadata("5.6.0", "hazelcast", "download")
+    version_metadata = vm.VersionMetadata("5.6.0", "hazelcast", "download", "preprod")
     slim_zip = version_metadata.os_downloads.slim_zip
 
     assert (
