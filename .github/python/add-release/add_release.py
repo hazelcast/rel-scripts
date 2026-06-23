@@ -19,12 +19,16 @@ def main() -> None:
     parser.add_argument("--version", required=True)
     parser.add_argument("--github-org", required=True)
     parser.add_argument("--ee-release-repo-name", required=True)
+    parser.add_argument("--jfrog-preprod-files-repo", required=True)
     parser.add_argument("--should-build-oss", required=True)
     parser.add_argument("--should-build-ee", required=True)
     args = parser.parse_args()
 
     version_metadata = VersionMetadata(
-        args.version, args.github_org, args.ee_release_repo_name
+        args.version,
+        args.github_org,
+        args.ee_release_repo_name,
+        args.jfrog_preprod_files_repo,
     )
     logging.debug("version=%s", version_metadata.version)
 
@@ -46,13 +50,13 @@ def update_hazelcast_open_source_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.os_downloads.full_zip.url}
+Download_ZIP_URL: {version_metadata.os_downloads.full_zip.live_url}
 Download_ZIP_Size: {version_metadata.os_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.url}
+Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.live_url}
 Download_slim_ZIP_Size: {version_metadata.os_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.os_downloads.full_tar.url}
+Download_TAR_URL: {version_metadata.os_downloads.full_tar.live_url}
 Download_TAR_Size: {version_metadata.os_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.os_downloads.slim_tar.url}
+Download_slim_TAR_URL: {version_metadata.os_downloads.slim_tar.live_url}
 Download_slim_TAR_Size: {version_metadata.os_downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
@@ -75,13 +79,13 @@ def update_hazelcast_enterprise_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.url}
+Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.live_url}
 Download_ZIP_Size: {version_metadata.ee_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.url}
+Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.live_url}
 Download_slim_ZIP_Size: {version_metadata.ee_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.ee_downloads.full_tar.url}
+Download_TAR_URL: {version_metadata.ee_downloads.full_tar.live_url}
 Download_TAR_Size: {version_metadata.ee_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.ee_downloads.slim_tar.url}
+Download_slim_TAR_URL: {version_metadata.ee_downloads.slim_tar.live_url}
 Download_slim_TAR_Size: {version_metadata.ee_downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
@@ -154,7 +158,7 @@ def update_imdg_clients_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download: {version_metadata.os_downloads.slim_zip.url}
+Download: {version_metadata.os_downloads.slim_zip.live_url}
 Download_Size: {version_metadata.os_downloads.slim_zip.size}
 Github: {version_metadata.sources_url}
 Docs: {version_metadata.docs_url}
