@@ -20,7 +20,7 @@ jobs:
 
       - name: Find any URLs in new lines and check they are resolvable
         run: |
-          source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
+          source /dev/stdin <<< "$(curl --fail --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
 
           echo '${{ steps.changed_lines.outputs.changed_lines }}' | jq --raw-output 'to_entries | .[] | "\(.key): \(.value | join(", "))"' | while read line; do
             file=$(echo "$line" | cut -d: -f1)
@@ -60,7 +60,7 @@ jobs:
 
       - name: Check files match the expected syntax
         run: |
-          source /dev/stdin <<< "$(curl --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
+          source /dev/stdin <<< "$(curl --fail --silent https://raw.githubusercontent.com/hazelcast/github-actions-common-scripts/main/logging.functions.sh)"
 
           # Look in all -non "release_meta"/".github" txt files
           find . -type f -name '*.txt' ! -path './release_meta/*' ! -path './.github/*' | while read -r file; do
