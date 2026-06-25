@@ -16,10 +16,10 @@ def test_build_downloads():
         "https://example.com/foo", "https://example.com/bar"
     )
 
-    assert downloads.full_zip.live_url == "https://example.com/foo.zip"
-    assert downloads.slim_zip.live_url == "https://example.com/foo-slim.zip"
-    assert downloads.full_tar.live_url == "https://example.com/foo.tar.gz"
-    assert downloads.slim_tar.live_url == "https://example.com/foo-slim.tar.gz"
+    assert downloads.full_zip.public_url == "https://example.com/foo.zip"
+    assert downloads.slim_zip.public_url == "https://example.com/foo-slim.zip"
+    assert downloads.full_tar.public_url == "https://example.com/foo.tar.gz"
+    assert downloads.slim_tar.public_url == "https://example.com/foo-slim.tar.gz"
 
 
 def test_download_size():
@@ -27,7 +27,7 @@ def test_download_size():
     slim_zip = version_metadata.os_downloads.slim_zip
 
     assert (
-        slim_zip.live_url
+        slim_zip.public_url
         == "https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.zip"
     )
     assert slim_zip.size == "41 MB"

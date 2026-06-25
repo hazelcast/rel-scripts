@@ -56,12 +56,12 @@ class DownloadUrl:
             try:
                 self._size = self._get_size(self.preprod_url)
             except requests.RequestException:
-                self._size = self._get_size(self.live_url)
+                self._size = self._get_size(self.public_url)
 
         return self._size
 
     @property
-    def live_url(self) -> str:
+    def public_url(self) -> str:
         return f"{self._live_base_url}{self._suffix}"
 
     @property

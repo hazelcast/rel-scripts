@@ -50,13 +50,13 @@ def update_hazelcast_open_source_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.os_downloads.full_zip.live_url}
+Download_ZIP_URL: {version_metadata.os_downloads.full_zip.public_url}
 Download_ZIP_Size: {version_metadata.os_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.live_url}
+Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.public_url}
 Download_slim_ZIP_Size: {version_metadata.os_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.os_downloads.full_tar.live_url}
+Download_TAR_URL: {version_metadata.os_downloads.full_tar.public_url}
 Download_TAR_Size: {version_metadata.os_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.os_downloads.slim_tar.live_url}
+Download_slim_TAR_URL: {version_metadata.os_downloads.slim_tar.public_url}
 Download_slim_TAR_Size: {version_metadata.os_downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
@@ -79,13 +79,13 @@ def update_hazelcast_enterprise_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.live_url}
+Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.public_url}
 Download_ZIP_Size: {version_metadata.ee_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.live_url}
+Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.public_url}
 Download_slim_ZIP_Size: {version_metadata.ee_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.ee_downloads.full_tar.live_url}
+Download_TAR_URL: {version_metadata.ee_downloads.full_tar.public_url}
 Download_TAR_Size: {version_metadata.ee_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.ee_downloads.slim_tar.live_url}
+Download_slim_TAR_URL: {version_metadata.ee_downloads.slim_tar.public_url}
 Download_slim_TAR_Size: {version_metadata.ee_downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
@@ -158,7 +158,7 @@ def update_imdg_clients_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download: {version_metadata.os_downloads.slim_zip.live_url}
+Download: {version_metadata.os_downloads.slim_zip.public_url}
 Download_Size: {version_metadata.os_downloads.slim_zip.size}
 Github: {version_metadata.sources_url}
 Docs: {version_metadata.docs_url}
