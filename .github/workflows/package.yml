@@ -70,6 +70,7 @@ jobs:
             --version=${VERSION} \
             --github-org=${GITHUB_REPOSITORY_OWNER} \
             --ee-release-repo-name=${{ vars.EE_RELEASE_REPO_NAME }} \
+            --jfrog-preprod-files-repo=${{ vars.JFROG_PREPROD_FILES_REPO }} \
             --should-build-oss=${{ steps.resolve-editions.outputs.should_build_oss }} \
             --should-build-ee=${{ steps.resolve-editions.outputs.should_build_ee }}
         env:
