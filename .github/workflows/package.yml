@@ -53,8 +53,6 @@ jobs:
           release-type: ${{ inputs.RELEASE_TYPE }}
 
       - uses: hazelcast/docker-actions/get-jfrog-credentials@master
-        # Other environments use public artifacts, where credentials aren't required
-        if: inputs.ENVIRONMENT == 'sandbox'
         id: jfrog
         with:
           aws-role-to-assume: ${{ vars.AWS_HAZELCAST_OIDC_GITHUB_ACTIONS_ROLE_ARN }}
