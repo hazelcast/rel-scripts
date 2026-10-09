@@ -1,7 +1,7 @@
 ========== Current Stable
 ---
 Version: 5.7.2
-Date: ${TBC_RELEASE_DATE}
+Date: 10/09/2026
 Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.2.zip
 Download_ZIP_Size: 835 MB
 Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.2-slim.zip
