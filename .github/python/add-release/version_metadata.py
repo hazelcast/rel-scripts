@@ -1,12 +1,23 @@
 import logging
 import os
+from abc import ABC, abstractmethod
 from dataclasses import InitVar, dataclass, field
+from posixpath import dirname
+from urllib.parse import urlparse
 
 import requests
 import semver
+from github import Auth, Github
 from humanize import naturalsize
 from requests.auth import HTTPBasicAuth
-from urllib.parse import urlparse
+
+
+def _github_token() -> str | None:
+    return os.getenv("GH_TOKEN")
+
+
+def _github_client() -> Github:
+    return Github(auth=Auth.Token(_github_token()))
 
 
 @dataclass
@@ -21,8 +32,6 @@ class DownloadUrl:
     @staticmethod
     def _get_size(url: str) -> str:
         """Fetch and cache the artifact size without _actually_ downloading it."""
-        # Lazily evaluates
-        # So in the case of (say) an EE-only release we don't query (non-existent) OS artifacts
         logging.debug("Getting size of %s", url)
 
         username = os.getenv("RELEASE_REPO_USER")
@@ -35,19 +44,26 @@ class DownloadUrl:
             and password
             else None
         )
+        headers = (
+            {"Authorization": f"Bearer {_github_token()}"}
+            if urlparse(url).hostname == "github.com" and _github_token()
+            else None
+        )
 
-        response = requests.head(
+        with requests.get(
             url,
             allow_redirects=True,
             auth=auth,
-        )
-        response.raise_for_status()
+            headers=headers,
+            stream=True,
+        ) as response:
+            response.raise_for_status()
 
-        content_length = response.headers["Content-Length"]
+            content_length = response.headers.get("Content-Length")
 
-        if content_length:
-            return naturalsize(int(content_length), format="%.0f")
-        else:
+            if content_length:
+                return naturalsize(int(content_length), format="%.0f")
+
             raise Exception(f"{url} did not return a size")
 
     @property
@@ -80,42 +96,26 @@ class Downloads:
 
 
 @dataclass
-class VersionMetadata:
+class VersionMetadata(ABC):
     """Release metadata derived from a semantic version."""
 
     version: semver.Version | str
-    github_org: InitVar[str]
-    ee_release_repo_name: InitVar[str]
-    jfrog_preprod_files_repo: InitVar[str]
 
-    def __post_init__(self, github_org, ee_release_repo_name, jfrog_preprod_files_repo):
-        """Normalize version and populate derived URLs and metadata."""
+    def __post_init__(self):
         if isinstance(self.version, str):
             self.version = semver.Version.parse(self.version)
 
-        self.os_downloads = self._build_downloads(
-            f"https://github.com/{github_org}/hazelcast/releases/download/v{self.version}/hazelcast-{self.version}",
-            f"https://repository.hazelcast.com/{jfrog_preprod_files_repo}/hazelcast/hazelcast-{self.version}",
-        )
-        self.ee_downloads = self._build_downloads(
-            f"https://repository.hazelcast.com/{ee_release_repo_name}/hazelcast-enterprise/hazelcast-enterprise-{self.version}",
-            f"https://repository.hazelcast.com/{jfrog_preprod_files_repo}/hazelcast-enterprise/hazelcast-enterprise-{self.version}",
-        )
-
-        self.sources_url = (
-            f"https://github.com/{github_org}/hazelcast/tree/v{self.version}"
-        )
-        self.code_samples_url = (
-            f"https://github.com/{github_org}/hazelcast-code-samples"
-        )
-
         self.docs_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/getting-started/quickstart.html"
-        self.os_release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/community#{self.version.major}-{self.version.minor}-{self.version.patch}"
-        self.ee_release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/enterprise#{self.version.major}-{self.version.minor}-{self.version.patch}"
-        self.os_apidocs_url = f"https://docs.hazelcast.org/docs/{self.version}/javadoc"
-        self.ee_apidocs_url = (
-            f"https://docs.hazelcast.org/hazelcast-ee-docs/{self.version}/javadoc"
-        )
+
+    @property
+    @abstractmethod
+    def downloads(self):
+        """Download metadata for this release."""
+
+    @property
+    @abstractmethod
+    def apidocs_url(self) -> str:
+        """API documentation URL for this release."""
 
     def _build_downloads(self, live_base_url: str, preprod_base_url: str) -> Downloads:
         """Build a Downloads object for a given artifact base live URL."""
@@ -125,3 +125,83 @@ class VersionMetadata:
             full_tar=DownloadUrl(live_base_url, preprod_base_url, ".tar.gz"),
             slim_tar=DownloadUrl(live_base_url, preprod_base_url, "-slim.tar.gz"),
         )
+
+
+@dataclass
+class OSVersionMetadata(VersionMetadata):
+    github_org: InitVar[str]
+
+    def __post_init__(self, github_org):
+        super().__post_init__()
+
+        self._downloads = self._build_downloads(
+            f"https://github.com/{github_org}/hazelcast/releases/download/v{self.version}/hazelcast-{self.version}",
+            f"{self._get_github_release_download_base_url(github_org)}/hazelcast-{self.version}",
+        )
+
+        self.release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/community#{self.version.major}-{self.version.minor}-{self.version.patch}"
+
+        self.sources_url = (
+            f"https://github.com/{github_org}/hazelcast/tree/v{self.version}"
+        )
+        self.code_samples_url = (
+            f"https://github.com/{github_org}/hazelcast-code-samples"
+        )
+
+    @property
+    def downloads(self):
+        return self._downloads
+
+    @property
+    def apidocs_url(self) -> str:
+        return f"https://docs.hazelcast.org/docs/{self.version}/javadoc"
+
+    def _get_github_release_download_base_url(self, github_org: str) -> str:
+        """Find the release and derive its asset download base URL - for draft releases, this is non-trivial."""
+
+        with _github_client() as github_client:
+            repo = github_client.get_repo(f"{github_org}/hazelcast")
+            release_name = f"v{self.version}"
+
+            try:
+                # have to iterate as get_release(releasename) doesn't find drafts
+                releases = repo.get_releases()
+                release = next(
+                    release for release in releases if release.name == release_name
+                )
+
+                asset = next(iter(release.get_assets()))
+
+                if asset:
+                    parsed_url = urlparse(asset.browser_download_url)
+                    return parsed_url._replace(path=dirname(parsed_url.path)).geturl()
+                else:
+                    raise ValueError(f"No assets found for version {release}")
+            except StopIteration:
+                raise ValueError(
+                    f"Release `{release_name}` not found in {repo} - found {[release.name for release in releases]}"
+                ) from None
+
+
+@dataclass
+class EEVersionMetadata(VersionMetadata):
+    release_repo_name: InitVar[str]
+    jfrog_preprod_files_repo: InitVar[str]
+
+    def __post_init__(self, release_repo_name, jfrog_preprod_files_repo):
+        super().__post_init__()
+
+        self._downloads = self._build_downloads(
+            f"https://repository.hazelcast.com/{release_repo_name}/hazelcast-enterprise/hazelcast-enterprise-{self.version}",
+            f"https://repository.hazelcast.com/{jfrog_preprod_files_repo}/hazelcast-enterprise/hazelcast-enterprise-{self.version}",
+        )
+
+        self.release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/enterprise#{self.version.major}-{self.version.minor}-{self.version.patch}"
+
+    @property
+    def downloads(self):
+        return self._downloads
+
+    @property
+    def apidocs_url(self) -> str:
+        return f"https://docs.hazelcast.org/hazelcast-ee-docs/{self.version}/javadoc"
