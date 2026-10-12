@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: psf/black@4f1883b1f15305a0e83a7c87991f46292bf09f85 # 26.10.0
+      - uses: psf/black@258e7dbf348bc23cb70b8cdf693481c04634ebcc # 26.10.1
 
   test:
     runs-on: ubuntu-latest
