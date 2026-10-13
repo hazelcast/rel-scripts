@@ -157,7 +157,7 @@ class OSVersionMetadata(VersionMetadata):
         return f"https://docs.hazelcast.org/docs/{self.version}/javadoc"
 
     def _get_github_release_download_base_url(self, github_org: str) -> str:
-        """Find the release and derive its asset download base URL - for draft releases, this is non-trivial."""
+        """Find the release and derive its asset download base URL - for draft releases, this is non-trivial - e.g. could be https://github.com/hazelcast/hazelcast/releases/download/untagged-ae7bc91fc31113ff3102/hazelcast-1.2.3.zip"""
 
         with _github_client() as github_client:
             repo = github_client.get_repo(f"{github_org}/hazelcast")
@@ -173,6 +173,7 @@ class OSVersionMetadata(VersionMetadata):
                 asset = next(iter(release.get_assets()))
 
                 if asset:
+                    # Now we have an asset (e.g. https://github.com/hazelcast/hazelcast/releases/download/untagged-ae7bc91fc31113ff3102/hazelcast-1.2.3.zip), extract the base URL of the releases' assets (e.g. https://github.com/hazelcast/hazelcast/releases/download/untagged-ae7bc91fc31113ff3102)
                     parsed_url = urlparse(asset.browser_download_url)
                     return parsed_url._replace(path=dirname(parsed_url.path)).geturl()
                 else:
