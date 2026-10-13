@@ -69,10 +69,8 @@ class DownloadUrl:
     @property
     def size(self) -> str:
         if self._size is None:
-            try:
-                self._size = self._get_size(self.preprod_url)
-            except requests.RequestException:
-                self._size = self._get_size(self.public_url)
+            # We only need to resolve size during `package` phase, before promotion - hence it will only ever be in preprod
+            self._size = self._get_size(self.preprod_url)
 
         return self._size
 
