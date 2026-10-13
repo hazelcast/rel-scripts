@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 import semver
-from version_metadata import VersionMetadata
+from version_metadata import EEVersionMetadata, OSVersionMetadata, VersionMetadata
 
 
 def main() -> None:
@@ -24,19 +24,21 @@ def main() -> None:
     parser.add_argument("--should-build-ee", required=True)
     args = parser.parse_args()
 
-    version_metadata = VersionMetadata(
-        args.version,
-        args.github_org,
-        args.ee_release_repo_name,
-        args.jfrog_preprod_files_repo,
-    )
-    logging.debug("version=%s", version_metadata.version)
-
     if parse_boolean(args.should_build_oss):
+        version_metadata = OSVersionMetadata(
+            version=args.version, github_org=args.github_org
+        )
+
         update_hazelcast_open_source_metadata(version_metadata)
         update_imdg_clients_metadata(version_metadata)
 
     if parse_boolean(args.should_build_ee):
+        version_metadata = EEVersionMetadata(
+            version=args.version,
+            release_repo_name=args.ee_release_repo_name,
+            jfrog_preprod_files_repo=args.jfrog_preprod_files_repo,
+        )
+
         update_hazelcast_enterprise_metadata(version_metadata)
 
 
@@ -50,18 +52,18 @@ def update_hazelcast_open_source_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.os_downloads.full_zip.public_url}
-Download_ZIP_Size: {version_metadata.os_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.os_downloads.slim_zip.public_url}
-Download_slim_ZIP_Size: {version_metadata.os_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.os_downloads.full_tar.public_url}
-Download_TAR_Size: {version_metadata.os_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.os_downloads.slim_tar.public_url}
-Download_slim_TAR_Size: {version_metadata.os_downloads.slim_tar.size}
+Download_ZIP_URL: {version_metadata.downloads.full_zip.public_url}
+Download_ZIP_Size: {version_metadata.downloads.full_zip.size}
+Download_slim_ZIP_URL: {version_metadata.downloads.slim_zip.public_url}
+Download_slim_ZIP_Size: {version_metadata.downloads.slim_zip.size}
+Download_TAR_URL: {version_metadata.downloads.full_tar.public_url}
+Download_TAR_Size: {version_metadata.downloads.full_tar.size}
+Download_slim_TAR_URL: {version_metadata.downloads.slim_tar.public_url}
+Download_slim_TAR_Size: {version_metadata.downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
-APIDocs: {version_metadata.os_apidocs_url}
-ReleaseNotes: {version_metadata.os_release_notes_url}
+APIDocs: {version_metadata.apidocs_url}
+ReleaseNotes: {version_metadata.release_notes_url}
 CodeSamples_URL: {version_metadata.code_samples_url}
 CodeSamples_Size:
 Github: {version_metadata.sources_url}"""
@@ -79,18 +81,18 @@ def update_hazelcast_enterprise_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.ee_downloads.full_zip.public_url}
-Download_ZIP_Size: {version_metadata.ee_downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.ee_downloads.slim_zip.public_url}
-Download_slim_ZIP_Size: {version_metadata.ee_downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.ee_downloads.full_tar.public_url}
-Download_TAR_Size: {version_metadata.ee_downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.ee_downloads.slim_tar.public_url}
-Download_slim_TAR_Size: {version_metadata.ee_downloads.slim_tar.size}
+Download_ZIP_URL: {version_metadata.downloads.full_zip.public_url}
+Download_ZIP_Size: {version_metadata.downloads.full_zip.size}
+Download_slim_ZIP_URL: {version_metadata.downloads.slim_zip.public_url}
+Download_slim_ZIP_Size: {version_metadata.downloads.slim_zip.size}
+Download_TAR_URL: {version_metadata.downloads.full_tar.public_url}
+Download_TAR_Size: {version_metadata.downloads.full_tar.size}
+Download_slim_TAR_URL: {version_metadata.downloads.slim_tar.public_url}
+Download_slim_TAR_Size: {version_metadata.downloads.slim_tar.size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
-APIDocs: {version_metadata.ee_apidocs_url}
-ReleaseNotes: {version_metadata.ee_release_notes_url}
+APIDocs: {version_metadata.apidocs_url}
+ReleaseNotes: {version_metadata.release_notes_url}
 CodeSamples_URL:
 CodeSamples_Size:
 Github:"""
@@ -101,8 +103,6 @@ Github:"""
 def update_hazelcast_metadata(
     version_metadata: VersionMetadata, file_path, version_block
 ):
-    """Updates `hazelcast-xxx_txt`"""
-
     header = "========== "
     current_stable_header = header + "Current Stable"
     previous_stable_header = header + "Previous Stable"
@@ -169,12 +169,12 @@ def update_imdg_clients_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download: {version_metadata.os_downloads.slim_zip.public_url}
-Download_Size: {version_metadata.os_downloads.slim_zip.size}
+Download: {version_metadata.downloads.slim_zip.public_url}
+Download_Size: {version_metadata.downloads.slim_zip.size}
 Github: {version_metadata.sources_url}
 Docs: {version_metadata.docs_url}
-APIDocs: {version_metadata.os_apidocs_url}
-ReleaseNotes: {version_metadata.os_release_notes_url}"""
+APIDocs: {version_metadata.apidocs_url}
+ReleaseNotes: {version_metadata.release_notes_url}"""
 
     insert_version_block_below_header(
         file_path, file_path.read_text(), header, version_block

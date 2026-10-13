@@ -63,7 +63,7 @@ jobs:
             --should-build-oss=${{ steps.resolve-editions.outputs.should_build_oss }} \
             --should-build-ee=${{ steps.resolve-editions.outputs.should_build_ee }}
         env:
-          VERSION: ${{ inputs.VERSION }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           RELEASE_REPO_USER: ${{ steps.jfrog.outputs.user }}
           RELEASE_REPO_TOKEN: ${{ steps.jfrog.outputs.token }}
 
