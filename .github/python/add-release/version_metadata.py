@@ -120,14 +120,8 @@ class EEVersionMetadata(VersionMetadata):
     def __post_init__(self, release_repo_name, jfrog_preprod_files_repo):
         super().__post_init__()
         prefix = f"hazelcast-enterprise-{self.version}"
-        live_base_url = (
-            f"https://repository.hazelcast.com/{release_repo_name}/"
-            f"hazelcast-enterprise/{prefix}"
-        )
-        preprod_base_url = (
-            f"https://repository.hazelcast.com/{jfrog_preprod_files_repo}/"
-            f"hazelcast-enterprise/{prefix}"
-        )
+        live_base_url = f"https://repository.hazelcast.com/{release_repo_name}/hazelcast-enterprise/{prefix}"
+        preprod_base_url = f"https://repository.hazelcast.com/{jfrog_preprod_files_repo}/hazelcast-enterprise/{prefix}"
         auth = HTTPBasicAuth(
             os.getenv("RELEASE_REPO_USER"),
             os.getenv("RELEASE_REPO_TOKEN"),
@@ -142,11 +136,7 @@ class EEVersionMetadata(VersionMetadata):
                 )
                 for suffix in DOWNLOAD_SUFFIXES
             }
-        self.release_notes_url = (
-            f"https://docs.hazelcast.com/hazelcast/"
-            f"{self.version.major}.{self.version.minor}/release-notes/enterprise"
-            f"#{self.version.major}-{self.version.minor}-{self.version.patch}"
-        )
+        self.release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/enterprise#{self.version.major}-{self.version.minor}-{self.version.patch}"
 
     @staticmethod
     def _get_download(
@@ -165,17 +155,11 @@ class EEVersionMetadata(VersionMetadata):
             if content_length is None:
                 raise ValueError(f"{preprod_url} did not return a Content-Length")
             try:
-                size = int(content_length)
+                DownloadUrl(url=live_url, size_in_bytes=int(content_length))
             except ValueError:
                 raise ValueError(
-                    f"{preprod_url} returned an invalid Content-Length: "
-                    f"{content_length!r}"
+                    f"{preprod_url} returned an invalid Content-Length: {content_length!r}"
                 ) from None
-            if size < 0:
-                raise ValueError(
-                    f"{preprod_url} returned a negative Content-Length: {size}"
-                )
-            return DownloadUrl(url=live_url, size_in_bytes=size)
 
     @property
     def downloads(self) -> dict[str, DownloadUrl]:
@@ -183,6 +167,4 @@ class EEVersionMetadata(VersionMetadata):
 
     @property
     def apidocs_url(self) -> str:
-        return (
-            f"https://docs.hazelcast.org/hazelcast-ee-docs/" f"{self.version}/javadoc"
-        )
+        return f"https://docs.hazelcast.org/hazelcast-ee-docs/{self.version}/javadoc"
