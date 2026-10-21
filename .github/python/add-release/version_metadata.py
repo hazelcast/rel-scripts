@@ -74,12 +74,8 @@ class OSVersionMetadata(VersionMetadata):
                     f"found {[release.name for release in releases]}"
                 ) from None
             assets = {asset.name: asset.size for asset in release.get_assets()}
-            missing_assets = [
-                f"{prefix}{suffix}"
-                for suffix in DOWNLOAD_SUFFIXES
-                if f"{prefix}{suffix}" not in assets
-            ]
-            if missing_assets:
+            expected = {f"{prefix}{suffix}" for suffix in DOWNLOAD_SUFFIXES}
+            if missing_assets := expected - assets.keys():
                 raise ValueError(
                     f"Release `{release_name}` is missing assets: {missing_assets}"
                 )
