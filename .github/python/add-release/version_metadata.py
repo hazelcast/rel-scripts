@@ -151,11 +151,12 @@ class EEVersionMetadata(VersionMetadata):
             if content_length is None:
                 raise ValueError(f"{preprod_url} did not return a Content-Length")
             try:
-                return DownloadUrl(url=live_url, size_in_bytes=int(content_length))
+                size_in_bytes = int(content_length)
             except ValueError:
                 raise ValueError(
                     f"{preprod_url} returned an invalid Content-Length: {content_length!r}"
                 ) from None
+            return DownloadUrl(url=live_url, size_in_bytes=size_in_bytes)
 
     @property
     def downloads(self) -> dict[str, DownloadUrl]:
