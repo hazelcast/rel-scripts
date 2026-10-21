@@ -52,14 +52,14 @@ def update_hazelcast_open_source_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.downloads.full_zip.public_url}
-Download_ZIP_Size: {version_metadata.downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.downloads.slim_zip.public_url}
-Download_slim_ZIP_Size: {version_metadata.downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.downloads.full_tar.public_url}
-Download_TAR_Size: {version_metadata.downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.downloads.slim_tar.public_url}
-Download_slim_TAR_Size: {version_metadata.downloads.slim_tar.size}
+Download_ZIP_URL: {version_metadata.downloads[".zip"].url}
+Download_ZIP_Size: {version_metadata.downloads[".zip"].human_readable_size}
+Download_slim_ZIP_URL: {version_metadata.downloads["-slim.zip"].url}
+Download_slim_ZIP_Size: {version_metadata.downloads["-slim.zip"].human_readable_size}
+Download_TAR_URL: {version_metadata.downloads[".tar.gz"].url}
+Download_TAR_Size: {version_metadata.downloads[".tar.gz"].human_readable_size}
+Download_slim_TAR_URL: {version_metadata.downloads["-slim.tar.gz"].url}
+Download_slim_TAR_Size: {version_metadata.downloads["-slim.tar.gz"].human_readable_size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
 APIDocs: {version_metadata.apidocs_url}
@@ -81,14 +81,14 @@ def update_hazelcast_enterprise_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download_ZIP_URL: {version_metadata.downloads.full_zip.public_url}
-Download_ZIP_Size: {version_metadata.downloads.full_zip.size}
-Download_slim_ZIP_URL: {version_metadata.downloads.slim_zip.public_url}
-Download_slim_ZIP_Size: {version_metadata.downloads.slim_zip.size}
-Download_TAR_URL: {version_metadata.downloads.full_tar.public_url}
-Download_TAR_Size: {version_metadata.downloads.full_tar.size}
-Download_slim_TAR_URL: {version_metadata.downloads.slim_tar.public_url}
-Download_slim_TAR_Size: {version_metadata.downloads.slim_tar.size}
+Download_ZIP_URL: {version_metadata.downloads[".zip"].url}
+Download_ZIP_Size: {version_metadata.downloads[".zip"].human_readable_size}
+Download_slim_ZIP_URL: {version_metadata.downloads["-slim.zip"].url}
+Download_slim_ZIP_Size: {version_metadata.downloads["-slim.zip"].human_readable_size}
+Download_TAR_URL: {version_metadata.downloads[".tar.gz"].url}
+Download_TAR_Size: {version_metadata.downloads[".tar.gz"].human_readable_size}
+Download_slim_TAR_URL: {version_metadata.downloads["-slim.tar.gz"].url}
+Download_slim_TAR_Size: {version_metadata.downloads["-slim.tar.gz"].human_readable_size}
 Docs_HTML: {version_metadata.docs_url}
 Docs_PDF:
 APIDocs: {version_metadata.apidocs_url}
@@ -169,8 +169,8 @@ def update_imdg_clients_metadata(version_metadata: VersionMetadata):
     version_block = f"""---
 Version: {version_metadata.version}
 Date: ${{TBC_RELEASE_DATE}}
-Download: {version_metadata.downloads.slim_zip.public_url}
-Download_Size: {version_metadata.downloads.slim_zip.size}
+Download: {version_metadata.downloads["-slim.zip"].url}
+Download_Size: {version_metadata.downloads["-slim.zip"].human_readable_size}
 Github: {version_metadata.sources_url}
 Docs: {version_metadata.docs_url}
 APIDocs: {version_metadata.apidocs_url}
