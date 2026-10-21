@@ -31,11 +31,7 @@ class VersionMetadata(ABC):
     def __post_init__(self):
         if isinstance(self.version, str):
             self.version = semver.Version.parse(self.version)
-        self.docs_url = (
-            f"https://docs.hazelcast.com/hazelcast/"
-            f"{self.version.major}.{self.version.minor}/getting-started/"
-            "quickstart.html"
-        )
+        self.docs_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/getting-started/quickstart.html"
 
     @property
     @abstractmethod
@@ -57,10 +53,7 @@ class OSVersionMetadata(VersionMetadata):
         super().__post_init__()
         release_name = f"v{self.version}"
         prefix = f"hazelcast-{self.version}"
-        live_base_url = (
-            f"https://github.com/{github_org}/hazelcast/releases/download/"
-            f"{release_name}/{prefix}"
-        )
+        live_base_url = f"https://github.com/{github_org}/hazelcast/releases/download/{release_name}/{prefix}"
         with Github(auth=Auth.Token(os.getenv("GH_TOKEN"))) as github_client:
             repo = github_client.get_repo(f"{github_org}/hazelcast")
             releases = repo.get_releases()
@@ -70,8 +63,7 @@ class OSVersionMetadata(VersionMetadata):
                 )
             except StopIteration:
                 raise ValueError(
-                    f"Release `{release_name}` not found in {repo} - "
-                    f"found {[release.name for release in releases]}"
+                    f"Release `{release_name}` not found in {repo} - found {[release.name for release in releases]}"
                 ) from None
             assets = {asset.name: asset.size for asset in release.get_assets()}
             expected = {f"{prefix}{suffix}" for suffix in DOWNLOAD_SUFFIXES}
@@ -86,11 +78,7 @@ class OSVersionMetadata(VersionMetadata):
                 )
                 for suffix in DOWNLOAD_SUFFIXES
             }
-        self.release_notes_url = (
-            f"https://docs.hazelcast.com/hazelcast/"
-            f"{self.version.major}.{self.version.minor}/release-notes/community"
-            f"#{self.version.major}-{self.version.minor}-{self.version.patch}"
-        )
+        self.release_notes_url = f"https://docs.hazelcast.com/hazelcast/{self.version.major}.{self.version.minor}/release-notes/community#{self.version.major}-{self.version.minor}-{self.version.patch}"
         self.sources_url = (
             f"https://github.com/{github_org}/hazelcast/tree/v{self.version}"
         )
